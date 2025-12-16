@@ -1,0 +1,116 @@
+[
+  {
+    "condition": "HIV/AIDS患者新冠病毒感染疑似病例",
+    "action": "1. 立即进行新冠病毒抗原或核酸检测（优先推荐口鼻咽拭子）；2. 对口鼻咽拭子持续阴性但高度怀疑感染者，尽早行支气管镜检查及支气管肺泡灌洗液核酸检测；3. 不推荐新冠病毒抗体检测作为确诊依据",
+    "contraindication": "不推荐将新冠病毒抗体检测作为确诊依据",
+    "evidence": "对于 HIV/AIDS 患者新冠病毒感染疑似病例，应立即进行新冠病毒抗原或核酸检测，不推荐将新冠病毒抗体检测作为新冠病毒感染的确诊依据。"
+  },
+  {
+    "condition": "HIV/AIDS患者新冠病毒感染后",
+    "action": "监测以下重症预警因素：1. 高龄；2. 肥胖；3. 合并慢性并发症；4. 存在合并感染；5. 炎症水平高；6. CD4细胞计数<200个/mm³；7. 未接受cART",
+    "contraindication": null,
+    "evidence": "高龄、肥胖、合并慢性并发症、存在合并感染、炎症水平高等是 HIV/AIDS 患者新冠病毒感染的重症预警因素。CD4 细胞计数 < 200 个/mm³ 和未接受 cART 是 HIV/AIDS 患者新冠病毒感染不良预后的重要因素。"
+  },
+  {
+    "condition": "HIV/AIDS患者明确新冠病毒感染后",
+    "action": "1. 及时启动抗新冠病毒治疗；2. 注意合并感染及继发感染的预防及治疗；3. 中型/重型/危重型患者建议住院治疗；4. 完善胸部影像学检查并调整cART方案",
+    "contraindication": null,
+    "evidence": "HIV/AIDS 患者为新冠病毒感染后的重型/危重型高危人群。故对于 HIV/AIDS 患者而言，一旦出现新冠病毒感染的症状，应尽早在专科医师指导下明确诊断、评估各项生命体征和高危预警实验室指标，并完善胸部影像学检查，综合患者病情调整 cART 方案，需要特别关注是否合并社区获得性感染及继发的各种机会性感染，符合抗新冠病毒治疗条件的患者应尽早使用抗新冠病毒药物。"
+  },
+  {
+    "condition": "HIV/AIDS患者新冠病毒感染需抗病毒治疗时",
+    "action": "1. 尽早合理选用抗新冠病毒小分子药物（疗程可适当延长）；2. 具体药物选择及用法：\n   - 奈玛特韦/利托那韦：奈玛特韦300mg+利托那韦100mg，每12h1次×5天（中度肾损伤减半，重度肝/肾损伤禁用）\n   - 先诺特韦/利托那韦：750mg+100mg，每12h1次×5天（空腹，重度肝损禁用）\n   - 来瑞特韦：400mg每日3次×5天（随餐）\n   - 阿兹夫定：5mg每日1次≤14天（空腹）\n   - 莫诺拉韦：800mg每12h1次×5天\n   - 氢溴酸氘瑞米德韦：首日600mg，第2-5日300mg每12h1次×5天",
+    "contraindication": "奈玛特韦/利托那韦禁与高度依赖CYP3A4清除的药物联用；阿兹夫定单药抗新冠病毒时需注意诱导HIV耐药风险",
+    "evidence": "应结合 HIV/AIDS 患者的病程、病情及基础用药情况，尽早合理地选用抗新冠病毒小分子药物，可适当延长抗病毒疗程。"
+  },
+  {
+    "condition": "HIV/AIDS患者感染新冠病毒后出现炎症反应",
+    "action": "免疫治疗参考普通人群指南：1. 恢复期血浆；2. 皮质类固醇；3. 细胞因子抑制剂（IL-1/IL-6/GM-CSF受体抑制剂）；4. JAK抑制剂；5. 血液净化清除炎症因子",
+    "contraindication": "需特别注意是否存在相关禁忌证",
+    "evidence": "HIV/AIDS 患者感染新冠病毒后炎症反应程度存在较大的个体差异，缺陷的细胞免疫可能矛盾地保护了严重的炎症反应。HIV/AIDS 患者新冠病毒感染后的免疫治疗总体可参考普通人群诊疗指南。"
+  },
+  {
+    "condition": "HIV/AIDS患者合并新冠病毒感染时",
+    "action": "1. 鉴别机会性感染并寻找病原学依据；2. CD4<200个/mm³时启动肺孢子菌预防；3. CD4<200个/mm³且弓形虫抗体阳性时启动弓形虫预防；4. 结核检测阳性者启动抗结核治疗；5. 警惕IRIS发生",
+    "contraindication": null,
+    "evidence": "HIV/AIDS 患者合并新冠病毒感染时，应注意与机会性感染相鉴别，尽可能地寻找病原学依据，评估并应用相应抗感染药物治疗，对于继发感染的预防和治疗参考普通人群。同时，应注意警惕免疫重建炎性反应综合征的发生和鉴别。"
+  },
+  {
+    "condition": "因新冠病毒感染需要住院治疗的HIV/AIDS患者",
+    "action": "1. 进行VTE评估；2. 无禁忌时使用预防剂量低分子肝素或普通肝素抗凝；3. 动态监测凝血指标调整剂量",
+    "contraindication": "排除相关禁忌证后使用",
+    "evidence": "对于因新冠病毒感染需要住院治疗的 HIV/AIDS 患者，均需要进行静脉血栓栓塞（Venous Thromboembolism, VTE）的评估。无禁忌情况下推荐预防剂量低分子肝素或者普通肝素进行预防性抗凝治疗，并应结合凝血相关指标进行动态评估，调整药物剂量。"
+  },
+  {
+    "condition": "HIV/AIDS患者合并新冠病毒感染的急性低氧性呼吸衰竭（AHRF）未接受气管插管",
+    "action": "使用经鼻高流量吸氧（HFNC）维持SpO₂≥92%",
+    "contraindication": null,
+    "evidence": "HIV/AIDS 患者合并新冠病毒感染的急性低氧性呼吸衰竭（Acute Hypoxemic Respiratory Failure, AHRF），建议使用经鼻高流量吸氧（High-Flow Nasal Cannula Oxygen, HFNC）作为未接受气管插管患者的呼吸支持治疗，维持 SPO₂ ≥ 92%。"
+  },
+  {
+    "condition": "HIV/AIDS患者因新冠病毒感染导致AHRF需HFNC或NIV支持",
+    "action": "实施清醒俯卧位（APP），每日持续时间≥8小时（前三天），总持续时间不应低于1小时",
+    "contraindication": "不作为严重低氧血症或无创支持失败患者的挽救治疗",
+    "evidence": "HIV/AIDS 患者因新冠病毒感染导致 AHRF 需 HFNC 或 NIV 支持的住院患者建议积极实施清醒俯卧位（Awake prone positioning, APP），持续时间不应低于 1 h。"
+  },
+  {
+    "condition": "HIV/AIDS患者合并重型/危重型新冠病毒感染经NIV/HFNC支持后氧合无改善",
+    "action": "尽早气管插管及间歇指令通气（IMV），指征包括：1. 呼吸困难加重；2. SpO₂<90%超5分钟；3. 呼吸肌疲劳；4. 呼吸频率>40次/分；5. pH<7.30；6. 血流动力学不稳；7. 神志恶化",
+    "contraindication": null,
+    "evidence": "HIV/AIDS 患者合并重型或危重型新冠病毒感染经 NIV/HFNC 支持治疗后氧合无改善的患者应尽早进行气管插管及间歇指令通气（intermittent mandatory ventilation, IMV）。"
+  },
+  {
+    "condition": "接受抗新冠病毒治疗的HIV/AIDS患者",
+    "action": "1. 评估抗新冠病毒药物与cART的相互作用；2. 通过www.covid19-druginteractions.org/checker查询；3. 使用奈玛特韦/利托那韦时不需调整cART剂量",
+    "contraindication": "延长奈玛特韦/利托那韦至10天时需密切监测不良反应",
+    "evidence": "对于接受抗新冠病毒感染治疗的 HIV/AIDS 患者，临床医生须评估新冠病毒治疗与患者目前正在使用的抗反转录病毒药物之间的相互作用。相关信息可以通过针对新冠病毒感染药物相互作用的网站查询（www.covid19-druginteractions.org/checker）。"
+  },
+  {
+    "condition": "感染新冠病毒并初次诊断为HIV/AIDS的患者",
+    "action": "由专科医师综合评估，尽早开始cART，选择药物相互作用较小的方案",
+    "contraindication": null,
+    "evidence": "感染新冠病毒并初次诊断为 HIV/AIDS 患者的人群，建议由专科医师综合评估，尽早开始 cART。"
+  },
+  {
+    "condition": "HIV/AIDS患者（无论是否感染新冠病毒）",
+    "action": "不应改变cART方案或添加抗反转录病毒药物预防/治疗新冠病毒感染",
+    "contraindication": "无证据支持LPV/r或TDF对新冠病毒感染有效",
+    "evidence": "HIV/AIDS 患者不应为了预防或治疗新冠病毒感染而改变其 cART 方案或在其方案中添加抗反转录病毒药物。"
+  },
+  {
+    "condition": "新冠病毒感染期间",
+    "action": "1. 加强患者-社区组织-疾控中心-医护人员-药商沟通；2. 社区组织协调药物补充、隐私保护及心理支持",
+    "contraindication": null,
+    "evidence": "加强多方沟通合作，以降低新冠病毒感染期间 cART 中断风险。"
+  },
+  {
+    "condition": "HIV/AIDS患者合并新冠病毒感染",
+    "action": "根据感染严重程度加强CD4/CD8细胞绝对计数监测，评估预后及康复",
+    "contraindication": null,
+    "evidence": "根据新冠病毒感染严重程度加强 T 细胞亚群检测，评估预后及康复情况。"
+  },
+  {
+    "condition": "未中断cART的HIV/AIDS患者",
+    "action": "维持HIV病毒载量检测频率：1. 启动cART前；2. 启动后6个月；3. 启动后12个月；4. 之后每年≥1次",
+    "contraindication": null,
+    "evidence": "未中断 cART 的 HIV/AIDS 患者 HIV 病毒载量可保持原检测频率不变，即启动 cART 前、新启动 cART 后 6 个月、12 个月检测，之后每年至少检测一次 HIV 病毒载量。"
+  },
+  {
+    "condition": "新冠病毒流行期间",
+    "action": "1. 筛查HIV/AIDS患者心理状态；2. 对合并精神疾病者采用：抗抑郁药（SSRI/SNRI）、认知行为治疗、正念冥想、肌肉松弛训练、互联网心理干预",
+    "contraindication": null,
+    "evidence": "应高度重视新冠病毒感染流行期间 HIV/AIDS 患者的心理状态筛查，对合并精神疾病患者可进行药物、心理干预或物理治疗。"
+  },
+  {
+    "condition": "HIV/AIDS患者",
+    "action": "1. 均推荐接种新冠病毒疫苗加强针；2. CD4<200个/mm³者优先加强免疫",
+    "contraindication": null,
+    "evidence": "HIV/AIDS 患者均推荐接种新冠病毒疫苗加强针，尤其是 CD4 细胞计数 < 200 个/mm³ 者。"
+  },
+  {
+    "condition": "18岁及以上HIV/AIDS患者",
+    "action": "1. 接种灭活疫苗/重组蛋白疫苗/mRNA疫苗；2. 加强免疫采用与基础免疫不同技术路线疫苗（推荐神州细胞4价蛋白疫苗或石药mRNA疫苗）",
+    "contraindication": null,
+    "evidence": "18 岁及以上 HIV/AIDS 患者可接种新冠病毒灭活疫苗、重组蛋白疫苗或 mRNA 疫苗，并采用与基础免疫不同技术路线的疫苗进行加强免疫。"
+  }
+]

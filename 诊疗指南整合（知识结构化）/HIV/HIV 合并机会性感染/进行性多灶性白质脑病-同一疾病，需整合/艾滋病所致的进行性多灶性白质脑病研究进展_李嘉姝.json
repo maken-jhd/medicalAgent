@@ -1,0 +1,38 @@
+[
+  {
+    "condition": "AIDS患者出现典型的进展性神经功能缺损症状和体征",
+    "action": "1. 进行符合PML特点的MRI检查；2. 通过PCR证实脑脊液中存在JCV；3. 排除其他诊断；4. 如果PCR阳性或脑组织活检发现JCV，可肯定诊断",
+    "contraindication": null,
+    "evidence": "总之,目前广泛用作诊断的方法需要有以下四项:AIDS 患者出现典型的进展性神经功能缺损症状和体征;符合 PML 特点的 MRI;通过 PCR 证实脑脊液中存在 JCV;排除其他诊断。用 PCR 技术检测到脑脊液中 JCV 的 DNA 序列或脑组织活检发现 JCV 可肯定诊断。"
+  },
+  {
+    "condition": "脑脊液JCV检测阴性但临床上高度怀疑为PML",
+    "action": "应再次检测脑脊液JCV",
+    "contraindication": null,
+    "evidence": "如果脑脊液 JCV 检测结果是阴性的,但临床上高度怀疑为 PML,应再次检测。"
+  },
+  {
+    "condition": "当需要诊断PML时",
+    "action": "推荐使用PCR方法检测脑脊液中JCV DNA以代替脑组织活检",
+    "contraindication": "脑活检有高风险",
+    "evidence": "再加上受损部位不易找到,且部分患者不能耐受此过程,因此,推荐使用 PCR 方法检测脑脊液中 JCV DNA 以代替脑组织活检。"
+  },
+  {
+    "condition": "确诊PML",
+    "action": "立即给予cART（联合抗反转录病毒治疗）",
+    "contraindication": null,
+    "evidence": "尽管目前为止尚无针对 JCV 感染的特异性治疗,但一旦患者确诊 PML 应立即给予 cART。"
+  },
+  {
+    "condition": "当考虑抗病毒治疗时",
+    "action": "不推荐使用阿糖胞苷、西多福韦和α干扰素",
+    "contraindication": "这些药物无效",
+    "evidence": "随后的研究证实阿糖胞苷、西多福韦和 α 干扰素的临床应用并无显著效果。"
+  },
+  {
+    "condition": "部分偏瘫、痴呆的患者，尤其是AIDS高危人群",
+    "action": "进行HIV血清学检查",
+    "contraindication": null,
+    "evidence": "应加强对部分偏瘫、痴呆的患者,尤其是发生在 AIDS 高危人群进行 HIV 血清学检查,以防漏诊和误诊。"
+  }
+]

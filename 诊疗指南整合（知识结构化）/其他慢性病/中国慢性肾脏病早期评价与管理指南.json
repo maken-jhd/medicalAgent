@@ -1,0 +1,356 @@
+[
+  {
+    "condition": "肾损伤和/或肾功能下降持续超过3个月",
+    "action": "诊断为CKD",
+    "contraindication": null,
+    "evidence": "CKD 的诊断标准包括白蛋白尿［尿白蛋白/肌酐比值（UACR）≥30 mg/g］、尿沉渣异常、肾小管功能异常引起的电解质及其他异常、肾组织学异常、肾影像学异常或肾移植病史中任何一项肾损伤指标，和/或肾功能降低[肾小球滤过率（(GFR) <60 ml·min⁻¹·1.73m⁻²]持续时间超过3 个月。"
+  },
+  {
+    "condition": "肾损伤或肾功能异常持续时间不清楚",
+    "action": "临床评估以区分CKD、急性肾损伤或急性肾脏病",
+    "contraindication": null,
+    "evidence": "如果肾损伤或肾功能异常持续时间不清楚，应临床评估以区分 CKD、急性肾损伤（AKI）（即肾功能改变在 2~7 d 内发生）、急性肾脏病（即肾损伤或肾功能下降持续≤3 个月）。"
+  },
+  {
+    "condition": "老年人群且eGFR（CKD-EPIcr公式）为45~59 ml·min⁻¹·1.73m⁻²且缺乏其他肾损伤证据",
+    "action": "采用基于肌酐和胱抑素C联合（CKD-EPIcr-cyst）公式计算eGFR",
+    "contraindication": null,
+    "evidence": "对基于肌酐的 CKD 流行病学合作研究（CKD-EPIcr）公式计算的估算 GFR（eGFR）为 45~59 ml·min⁻¹·1.73m⁻²，且缺乏其他肾损伤证据的老年人群，建议进一步采用基于肌酐和胱抑素 C 联合（CKD-EPIcr-cyst）公式计算 eGFR，明确是否为CKD，以减少 CKD3a 期的过度诊断。"
+  },
+  {
+    "condition": "糖尿病",
+    "action": "进行CKD定期筛查",
+    "contraindication": null,
+    "evidence": "推荐对糖尿病（1a，A）、高血压（1a，A）、心血管疾病（2c，B）、老年群体（2b，B）进行CKD的定期筛查"
+  },
+  {
+    "condition": "高血压",
+    "action": "进行CKD定期筛查",
+    "contraindication": null,
+    "evidence": "推荐对糖尿病（1a，A）、高血压（1a，A）、心血管疾病（2c，B）、老年群体（2b，B）进行CKD的定期筛查"
+  },
+  {
+    "condition": "心血管疾病",
+    "action": "进行CKD定期筛查",
+    "contraindication": null,
+    "evidence": "推荐对糖尿病（1a，A）、高血压（1a，A）、心血管疾病（2c，B）、老年群体（2b，B）进行CKD的定期筛查"
+  },
+  {
+    "condition": "老年群体",
+    "action": "进行CKD定期筛查",
+    "contraindication": null,
+    "evidence": "推荐对糖尿病（1a，A）、高血压（1a，A）、心血管疾病（2c，B）、老年群体（2b，B）进行CKD的定期筛查"
+  },
+  {
+    "condition": "有其他CKD高危因素（如肥胖、非酒精性脂肪肝、血脂异常、高尿酸血症、AKI史、肾脏病家族史、长期服用肾毒性药物、环境因素暴露等）",
+    "action": "进行肾脏损伤指标监测和评估",
+    "contraindication": null,
+    "evidence": "除上述因素外，CKD危险因素亦包括社会人口学因素（如遗传，性别，种族）、合并疾病（如肥胖、非酒精性脂肪肝、血脂异常、高尿酸血症）、AKI史或肾脏病家族史、长期服用肾毒性药物（如解热镇痛药、含马兜铃酸类中草药、环孢素A或他克莫司等免疫抑制剂、锂剂、免疫检查点抑制剂等新型靶向抗肿瘤药物），以及环境因素（如大气颗粒物及气态污染物暴露、环境温度）等，上述人群亦属CKD高危群体，临床中需重视对其肾脏损伤指标进行监测和评估。"
+  },
+  {
+    "condition": "CKD高危人群",
+    "action": "每年至少筛查一次，筛查内容包括尿白蛋白、基于血肌酐计算的eGFR；如无尿蛋白定量检测条件，可考虑尿常规进行初步筛查，如有异常再行尿白蛋白（或蛋白）检测",
+    "contraindication": null,
+    "evidence": "建议对CKD高危人群的筛查每年至少一次，筛查内容包括尿白蛋白、基于血肌酐计算的eGFR；如无尿蛋白定量检测条件，可考虑尿常规进行初步筛查，如有异常再行尿白蛋白（或蛋白）检测（5，D）"
+  },
+  {
+    "condition": "管理CKD危险因素",
+    "action": "重点关注高血糖和高血压",
+    "contraindication": null,
+    "evidence": "建议在管理CKD危险因素时，重点关注高血糖和高血压（2a，B）"
+  },
+  {
+    "condition": "糖尿病合并动脉粥样硬化性心血管疾病患者",
+    "action": "使用钠-葡萄糖共转运蛋白2（SGLT2）抑制剂进行CKD一级预防",
+    "contraindication": null,
+    "evidence": "推荐钠-葡萄糖共转运蛋白2（SGLT2）抑制剂用于糖尿病合并动脉粥样硬化性心血管疾病患者的CKD一级预防（1b，A）"
+  },
+  {
+    "condition": "2型糖尿病患者且需要降压治疗",
+    "action": "使用血管紧张素转化酶抑制剂（ACEI）作为一线降压药物；若ACEI治疗有禁忌或不能耐受，应考虑血管紧张素受体拮抗剂（ARB）",
+    "contraindication": "ACEI治疗有禁忌或不能耐受",
+    "evidence": "英国临床糖尿病学家协会和英国肾脏协会制订的成人糖尿病肾病患者高血压和阻断肾素‐血管紧张素‐醛固酮系统的管理指南指出，肾素‐血管紧张素‐醛固酮系统（RAAS）抑制剂可有效预防或减缓CKD进展，并推荐使用血管紧张素转化酶抑制剂（ACEI）作为2型糖尿病患者一线降压药物，若ACEI治疗有禁忌或不能耐受，应考虑血管紧张素受体拮抗剂（ARB）。"
+  },
+  {
+    "condition": "CKD高危人群",
+    "action": "积极管理心血管疾病，对血脂异常、高尿酸血症等代谢性疾病行积极治疗，调整生活方式（规律作息、健康饮食、适当运动、控制体重和戒烟戒酒），注意药物的肾毒性作用",
+    "contraindication": null,
+    "evidence": "CKD高危人群亦应积极管理心血管疾病，对血脂异常、高尿酸血症等代谢性疾病行积极治疗，同时注重调整生活方式，包括规律作息、健康饮食、适当运动、控制体重和戒烟戒酒等，并注意药物的肾毒性作用。"
+  },
+  {
+    "condition": "非透析CKD患者",
+    "action": "血压控制在<130/80 mmHg；如能耐受，收缩压进一步控制在120 mmHg以下",
+    "contraindication": "null",
+    "evidence": "建议非透析 CKD 患者血压控制在< 130/80 mmHg（2a，B），如能耐受，可进一步将收缩压控制在 120 mmHg 以下"
+  },
+  {
+    "condition": "老年CKD患者",
+    "action": "血压控制在<140/80 mmHg",
+    "contraindication": "null",
+    "evidence": "建议老年 CKD 患者血压控制在<140/80 mmHg 以内（2b，B）"
+  },
+  {
+    "condition": "未接受透析CKD合并糖尿病且健康情况良好、无低血糖病史",
+    "action": "糖化血红蛋白目标值<6.5%",
+    "contraindication": "null",
+    "evidence": "推荐未接受透析 CKD 合并糖尿病患者，糖化血红蛋白目标值应个体化。如健康情况良好、无低血糖病史者，糖化血红蛋白<6.5%"
+  },
+  {
+    "condition": "未接受透析CKD合并糖尿病且有严重低血糖事件史、预期寿命较短、合并严重大血管或微血管并发症",
+    "action": "糖化血红蛋白目标值<8.0%",
+    "contraindication": "null",
+    "evidence": "推荐未接受透析 CKD 合并糖尿病患者，糖化血红蛋白目标值应个体化...如有严重低血糖事件史、预期寿命较短、合并严重大血管或微血管并发症者，糖化血红蛋白<8.0%"
+  },
+  {
+    "condition": "未接受透析CKD合并高脂血症且为高危人群",
+    "action": "低密度脂蛋白胆固醇（LDL-C）<1.8 mmol/L",
+    "contraindication": "null",
+    "evidence": "建议未接受透析的 CKD 合并高脂血症患者血脂控制目标为：高危人群低密度脂蛋白胆固醇（LDL-C）<1.8 mmol/L"
+  },
+  {
+    "condition": "未接受透析CKD合并高脂血症且为极高危人群",
+    "action": "低密度脂蛋白胆固醇（LDL-C）<1.4 mmol/L",
+    "contraindication": "null",
+    "evidence": "建议未接受透析的 CKD 合并高脂血症患者血脂控制目标为：...极高危人群LDL-C<1.4 mmol/L"
+  },
+  {
+    "condition": "CKD患者",
+    "action": "进行合理、适度、规律的运动",
+    "contraindication": "中高强度运动前需在专业人员监督下进行运动负荷试验",
+    "evidence": "推荐 CKD 患者进行合理、适度、规律的运动，以改善预后及延缓 CKD 进展（1a，A）"
+  },
+  {
+    "condition": "CKD患者",
+    "action": "钠摄入量限制在低于2.3 g/d",
+    "contraindication": "null",
+    "evidence": "限制 CKD 患者的钠摄入量（1a，A），并应低于 2.3 g/d（5，D）"
+  },
+  {
+    "condition": "CKD 1~2期患者",
+    "action": "蛋白质摄入量0.8~1.0 g·kg⁻¹·d⁻¹，避免高蛋白饮食",
+    "contraindication": "null",
+    "evidence": "推荐不论是否合并糖尿病，CKD 1~2 期患者均应避免高蛋白饮食，蛋白质摄入量 0.8~1.0 g·kg-1·d-1"
+  },
+  {
+    "condition": "CKD 3~5期代谢稳定的非透析患者",
+    "action": "限制饮食中蛋白质摄入，适量增加植物蛋白摄入比例",
+    "contraindication": "null",
+    "evidence": "CKD 3~5 期代谢稳定的非透析患者，限制饮食中蛋白质摄入，以降低发生 ESKD 和死亡风险；适量增加植物蛋白摄入比例（1a，A）"
+  },
+  {
+    "condition": "CKD患者",
+    "action": "戒烟",
+    "contraindication": "null",
+    "evidence": "建议 CKD 患者戒烟，以减少蛋白尿并延缓进展至 ESKD（2a，B）"
+  },
+  {
+    "condition": "未接受透析的CKD合并严重蛋白尿（G1期~G4期，A3）患者",
+    "action": "使用ACEI或ARB",
+    "contraindication": "null",
+    "evidence": "对未接受透析的 CKD 合并严重蛋白尿（G1 期~G4 期，A3）患者，无论是否合并高血压或糖尿病，推荐使用 ACEI 或 ARB（1c，A）"
+  },
+  {
+    "condition": "未接受透析的CKD合并中度蛋白尿（G1期~G4期，A2）患者且合并糖尿病",
+    "action": "使用ACEI或ARB",
+    "contraindication": "null",
+    "evidence": "对未接受透析的 CKD 合并中度蛋白尿（G1 期~G4 期，A2）患者，合并糖尿病时，无论是否有高血压，推荐使用 ACEI 或 ARB（1c，A）"
+  },
+  {
+    "condition": "未接受透析的CKD合并中度蛋白尿（G1期~G4期，A2）患者且合并高血压",
+    "action": "考虑使用ACEI或ARB",
+    "contraindication": "null",
+    "evidence": "对未接受透析的 CKD 合并中度蛋白尿（G1 期~G4 期，A2）患者，合并高血压时，推荐考虑使用 ACEI 或 ARB（1b，A）"
+  },
+  {
+    "condition": "无蛋白尿的CKD合并高血压患者",
+    "action": "考虑使用ACEI或ARB",
+    "contraindication": "null",
+    "evidence": "对无蛋白尿的 CKD 合并高血压患者，建议考虑使用 ACEI 或 ARB（1b，A）"
+  },
+  {
+    "condition": "任何CKD患者",
+    "action": "不推荐ACEI和ARB联合治疗",
+    "contraindication": "ACEI和ARB联合治疗",
+    "evidence": "不推荐 ACEI 和 ARB 联合治疗CKD（1b，A）"
+  },
+  {
+    "condition": "CKD患者（无论是否合并糖尿病）",
+    "action": "使用SGLT2抑制剂治疗",
+    "contraindication": "eGFR<20 ml·min⁻¹·1.73m⁻²时起始禁用",
+    "evidence": "推荐 CKD 合并或不合并糖尿病患者使用 SGLT2 抑制剂治疗(1a，A)"
+  },
+  {
+    "condition": "CKD合并慢性症状性心力衰竭患者（不考虑射血分数）",
+    "action": "使用SGLT2抑制剂治疗",
+    "contraindication": "null",
+    "evidence": "推荐 CKD 合并慢性症状性心力衰竭患者(不考虑射血分数)使用 SGLT2 抑制剂治疗(1a，A)"
+  },
+  {
+    "condition": "使用SGLT2抑制剂延缓肾病进展或降低心力衰竭风险",
+    "action": "可持续应用至进入透析或肾移植前",
+    "contraindication": "null",
+    "evidence": "建议 SGLT2 抑制剂用于延缓肾病进展或降低心力衰竭风险时，可持续应用至患者进入透析或接受肾移植前(4，C)"
+  },
+  {
+    "condition": "糖尿病合并蛋白尿的CKD患者，已使用最大耐受剂量ACEI/ARB和（或）SGLT2抑制剂",
+    "action": "酌情加用MRA",
+    "contraindication": "需评估高钾血症、AKI和男性乳房发育症风险",
+    "evidence": "糖尿病合并蛋白尿的CKD患者，在已使用最大耐受剂量ACEI/ARB和（或）SGLT2抑制剂治疗时，可酌情加用MRA（1a，A），但需充分评估高钾血症、AKI和男性乳房发育症风险（1c，A）"
+  },
+  {
+    "condition": "糖尿病合并蛋白尿的CKD患者使用MRA",
+    "action": "优先考虑非甾体类MRA",
+    "contraindication": "null",
+    "evidence": "选择MRA时，建议优先考虑非甾体类MRA用于治疗糖尿病合并蛋白尿的CKD患者（1a，B）"
+  },
+  {
+    "condition": "CKD合并高血压患者",
+    "action": "首选ACEI/ARB（单独或联合其他降压药），定期检测尿蛋白、血肌酐和血钾",
+    "contraindication": "禁止ACEI与ARB联合应用",
+    "evidence": "推荐ACEI/ARB作为CKD合并高血压患者降压治疗的首选药物，可单独或联合其他降压药物使用（1a，A），不推荐ACEI与ARB联合应用（1a，A）。治疗期间应定期检测尿蛋白、血肌酐和血钾"
+  },
+  {
+    "condition": "CKD合并糖尿病患者",
+    "action": "使用二甲双胍和SGLT2抑制剂作为一线降糖药物，必要时联合其他降糖药",
+    "contraindication": "null",
+    "evidence": "推荐二甲双胍（2a，B）和 SGLT2 抑制剂（1a，A）作为治疗 CKD 合并糖尿病的一线降糖药物，必要时联合其他降糖药物使用"
+  },
+  {
+    "condition": "eGFR≥30 ml·min⁻¹·1.73m⁻²的CKD合并2型糖尿病患者",
+    "action": "使用二甲双胍",
+    "contraindication": "eGFR<30 ml·min⁻¹·1.73m⁻²禁用",
+    "evidence": "建议二甲双胍用于 eGFR≥30 ml·min-1·1.73m-2 的 CKD 合并 2 型糖尿病患者（2a，B）"
+  },
+  {
+    "condition": "eGFR≥25 ml·min⁻¹·1.73m⁻²的CKD合并2型糖尿病患者",
+    "action": "使用SGLT2抑制剂",
+    "contraindication": "eGFR<25 ml·min⁻¹·1.73m⁻²禁用",
+    "evidence": "推荐 SGLT2 抑制剂用于 eGFR≥25 ml·min-1·1.73m-2 的 CKD 合并 2 型糖尿病患者（1a，A）"
+  },
+  {
+    "condition": "CKD合并2型糖尿病患者使用二甲双胍和SGLT2抑制剂后血糖未达标，或不能使用上述药物",
+    "action": "使用胰高血糖素样肽-1受体激动剂（GLP-1RA）",
+    "contraindication": "null",
+    "evidence": "当 CKD 合并 2 型糖尿病患者使用二甲双胍和 SGLT2 抑制剂后血糖仍未达标，或不能使用上述药物时，推荐使用胰高血糖素样肽-1 受体激动剂（GLP-1RA）（1a，A）"
+  },
+  {
+    "condition": "非透析的CKD 3~5期合并高脂血症患者",
+    "action": "使用他汀类药物或他汀类药物联合依折麦布",
+    "contraindication": "null",
+    "evidence": "推荐非透析的 CKD 3~5 期合并高脂血症的患者使用他汀类药物或他汀类药物联合依折麦布治疗（1a，A）"
+  },
+  {
+    "condition": "CKD合并心血管疾病（二级预防）",
+    "action": "使用阿司匹林",
+    "contraindication": "一级预防禁用",
+    "evidence": "推荐阿司匹林用于 CKD 合并心血管疾病的二级预防，但不推荐用于一级预防（1a，A）"
+  },
+  {
+    "condition": "CKD合并射血分数降低性心力衰竭",
+    "action": "使用ACEI、ARB、ARNI、β受体阻滞剂、SGLT2抑制剂和MRA",
+    "contraindication": "null",
+    "evidence": "建议将 ACEI（2b，B）、ARB（2b，B）、血管紧张素受体-脑啡肽酶抑制剂（ARNI）（1b，A）、β 受体阻滞剂（2b，B）、SGLT2 抑制剂（1b，A）和 MRA（5，D）用于 CKD 合并射血分数降低性心力衰竭的治疗"
+  },
+  {
+    "condition": "肾性贫血患者",
+    "action": "使用红细胞生成刺激剂（ESAs），使用前纠正铁缺乏或炎症状态",
+    "contraindication": "未纠正铁缺乏或炎症状态前禁用",
+    "evidence": "推荐红细胞生成刺激剂（ESAs）用于治疗肾性贫血（1c，A），但使用前应尽可能纠正铁缺乏或炎症状态等加重肾性贫血的危险因素（5，D）"
+  },
+  {
+    "condition": "肾性贫血患者存在绝对铁缺乏",
+    "action": "给予铁剂治疗",
+    "contraindication": "null",
+    "evidence": "推荐当肾性贫血患者存在绝对铁缺乏时，无论是否使用 ESAs，应给予铁剂治疗（1c，A）"
+  },
+  {
+    "condition": "非透析和透析的CKD患者合并肾性贫血",
+    "action": "使用低氧诱导因子脯氨酰羟化酶抑制剂（HIF-PHI）",
+    "contraindication": "null",
+    "evidence": "对非透析和透析的 CKD 患者，推荐低氧诱导因子脯氨酰羟化酶抑制剂（HIF-PHI）治疗肾性贫血（1a，A）"
+  },
+  {
+    "condition": "非透析CKD和腹膜透析患者合并肾性贫血",
+    "action": "口服HIF-PHI",
+    "contraindication": "null",
+    "evidence": "口服 HIF-PHI 可增加非透析 CKD 和腹膜透析患者的治疗依从性（5，D）"
+  },
+  {
+    "condition": "CKD合并骨质疏松和/或高骨折风险",
+    "action": "给予活性维生素D及其类似物和钙剂治疗",
+    "contraindication": "null",
+    "evidence": "对 CKD 合并骨质疏松和/或高骨折风险的患者，建议给予活性维生素 D 及其类似物（1a，A）和钙剂（5，D）治疗"
+  },
+  {
+    "condition": "CKD患者高钾血症急性发作",
+    "action": "使用环硅酸锆钠",
+    "contraindication": "null",
+    "evidence": "推荐环硅酸锆钠用于 CKD 患者高钾血症急性发作（1b，A）"
+  },
+  {
+    "condition": "CKD患者慢性高钾血症",
+    "action": "使用环硅酸锆钠维持治疗1年",
+    "contraindication": "null",
+    "evidence": "推荐环硅酸锆钠用于...慢性高钾血症维持治疗，环硅酸锆钠维持治疗 1 年（1b，A）"
+  },
+  {
+    "condition": "CKD患者轻度至中度高钾血症",
+    "action": "使用阳离子交换树脂短期治疗",
+    "contraindication": "长期治疗禁用",
+    "evidence": "推荐阳离子交换树脂用于 CKD 患者轻度至中度高钾血症的短期治疗（1b，A）"
+  },
+  {
+    "condition": "CKD患者",
+    "action": "进行自我管理的健康教育",
+    "contraindication": null,
+    "evidence": "推荐对 CKD 患者进行自我管理的健康教育（1a，A）"
+  },
+  {
+    "condition": "CKD患者确诊后",
+    "action": "接受健康教育和自我管理计划，充分认识CKD相关知识并掌握自我管理技能，尊重患者个人价值观、目标、需求和偏好",
+    "contraindication": null,
+    "evidence": "CKD 患者一旦确诊即应接受健康教育和管理，充分认识 CKD相关知识并掌握相应的自我管理技能。在实施相关方案时，应充分尊重患者的个人价值观、目标、需求和偏好。医护工作者应尽早为 CKD 患者（及患者的家庭成员或护理人员）提供包括但不限于针对 CKD 的严重程度、病因、相关并发症、进展风险和心理疏导等尽可能全面的自我管理教育知识。"
+  },
+  {
+    "condition": "CKD患者",
+    "action": "建立CKD管理团队，由多学科专业人员、家属和患者组成，包括执业医师（普通医师和/或专科医师）、CKD教员（教育护士）、公共卫生医师、营养师、患者及其家属",
+    "contraindication": null,
+    "evidence": "推荐 CKD 管理团队应由多学科专业人员、家属和患者组成，包括执业医师（普通医师和/或专科医师）、CKD 教员（教育护士）、公共卫生医师、营养师、患者及其家属（1a，A）"
+  },
+  {
+    "condition": "CKD管理团队",
+    "action": "设置专职CKD教育者岗位，由受过专门培训的教育护士承担；建立定期随访和评估系统，对患者进行定期评估",
+    "contraindication": null,
+    "evidence": "最佳 CKD 管理模式是团队式管理，由多学科专业人员组成 CKD 管理单位。每个 CKD 管理团队设专职 CKD 教育者的岗位，由一名受过专门培训的 CKD 教育护士承担，以保证教育质量。此外亦有药剂师、营养师等多学科专业人员参与协作，提供各自领域的专业指导。同时，以团队为基础的综合管理方法亦应建立定期随访和评估系统，对患者进行定期评估，以确保所有患者均能进行咨询，并得到及时的正确指导。"
+  },
+  {
+    "condition": "普通CKD患者在社区卫生服务中心",
+    "action": "进行长期的监测与管理",
+    "contraindication": null,
+    "evidence": "社区卫生服务中心对普通 CKD 患者进行长期的监测与管理"
+  },
+  {
+    "condition": "疑难或危重CKD患者在区属医院或市级医院",
+    "action": "进行诊治和管理",
+    "contraindication": null,
+    "evidence": "区/市级对疑难、危重病进行诊治和管理"
+  },
+  {
+    "condition": "各级医疗卫生服务机构针对CKD",
+    "action": "举办社区教育课程，包括提高自我效能策略、练习解决问题技巧、促进互动支持；安排CKD患者定期随访；指导患者正确服药及日常生活注意事项；做好服药登记；制定个人健康档案；开展免费义诊",
+    "contraindication": null,
+    "evidence": "各级医疗卫生服务机构应根据自身情况，举办针对 CKD 的社区教育课程，进行包括提高自我效能策略、练习解决问题技巧、促进互动支持；安排CKD 患者定期随访，指导患者正确服药及日常生活注意事项，做好患者服药登记等工作。同时亦为患者制定个人健康档案，开展免费义诊等。"
+  },
+  {
+    "condition": "区级和市级医院",
+    "action": "教育团队定期到社区开展多种形式的健康教育活动，提高居民对CKD的认知，培养自我管理技能",
+    "contraindication": null,
+    "evidence": "区级和市级医院的教育团队应定期到社区开展多种形式的健康教育活动，提高居民对 CKD 的认知，树立居民和患者的主动参与意识及培养疾病的自我管理技能"
+  },
+  {
+    "condition": "省级医院针对CKD",
+    "action": "举办多学科义诊；定期举办CKD患者教育讲座，讲解CKD疾病基础知识、一体化治疗原则、并发症/合并症的处理、肾病营养",
+    "contraindication": null,
+    "evidence": "省级医院应举办多学科义诊，并定期举办 CKD 患者教育讲座，讲解 CKD 疾病基础知识及一体化治疗原则、并发症/合并症的处理，肾病营养等"
+  }
+]

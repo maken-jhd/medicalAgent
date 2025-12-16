@@ -1,0 +1,68 @@
+[
+  {
+    "condition": "HIV感染者接受抗反转录病毒治疗前",
+    "action": "1. 进行尿常规检测；2. 进行血清肌酐检测；3. 评估患者肾脏功能（eGFR）",
+    "contraindication": "null",
+    "evidence": "艾滋病病毒ＨＩＶ感染者在接受抗反转录病毒治疗前应进行尿常规和血清肌酐检测并评估患者肾脏功能（ｅＧＦＲ）。"
+  },
+  {
+    "condition": "HIV感染者在开始接受抗反转录病毒治疗的６个月内",
+    "action": "密切监测尿常规",
+    "contraindication": "null",
+    "evidence": "患者在开始接受抗反转录病毒治疗的６个月内，应密切监测尿常规。"
+  },
+  {
+    "condition": "ｅＧＦＲ ≥ ６０ｍＬ／（ｍｉｎ１．３ｍ２）且无蛋白尿的ＨＩＶ感染者",
+    "action": "在随访期间至少一年２次评估ｅＧＦＲ",
+    "contraindication": "null",
+    "evidence": "ｅＧＦＲ ≥ ６０ｍＬ／（ｍｉｎ１．３ｍ２）且无蛋白尿的ＨＩＶ感染者，在随访期间至少一年２次评估ｅＧＦＲ；"
+  },
+  {
+    "condition": "老年患者、合并乙型肝炎病毒／丙型肝炎病毒感染、合并高血压、合并糖尿病、ＨＩＶ病毒载量高、ＣＤ４＋Ｔ淋巴细胞计数低、正在接受具有潜在肾毒性药物（如替诺福韦（ＴＤＦ））治疗等高危人群",
+    "action": "至少每３个月评估一次ｅＧＦＲ",
+    "contraindication": "null",
+    "evidence": "对于老年患者、合并乙型肝炎病毒／丙型肝炎病毒感染、合并高血压、合并糖尿病、ＨＩＶ病毒载量高、ＣＤ４＋Ｔ淋巴细胞计数低、正在接受具有潜在肾毒性药物（如替诺福韦（ＴＤＦ））治疗等高危人群，应密切监测肾脏功能，至少每３个月评估一次ｅＧＦＲ。"
+  },
+  {
+    "condition": "ｅＧＦＲ＜６０ｍＬ／（ｍｉｎ１．３ｍ２）或出现尿蛋白的ＨＩＶ感染者（包括初治患者和经治患者）",
+    "action": "1. 避免使用ＴＤＦ；2. 避免使用其他可引起肾损伤的药物（如非甾体类抗炎药）",
+    "contraindication": "避免使用ＴＤＦ及其他可引起肾损伤的药物",
+    "evidence": "ｅＧＦＲ＜６０ｍＬ／（ｍｉｎ１．３ｍ２）或出现尿蛋白的ＨＩＶ感染者（包括初治患者和经治患者），应避免使用ＴＤＦ及其他可引起肾损伤的药物（如非甾体类抗炎药）；"
+  },
+  {
+    "condition": "使用ＴＤＦ患者，当出现ｅＧＦＲ较基线下降幅度 ≥ ２５％或ｅＧＦＲ＜６０ｍＬ／（ｍｉｎ１．３ｍ２）",
+    "action": "停用ＴＤＦ",
+    "contraindication": "null",
+    "evidence": "对于使用ＴＤＦ患者，当出现ｅＧＦＲ较基线下降幅度 ≥ ２５％或ｅＧＦＲ＜６０ｍＬ／（ｍｉｎ１．３ｍ２），应停用ＴＤＦ。"
+  },
+  {
+    "condition": "慢性肾脏病（CKD）或终末期肾病（ESRD）患者",
+    "action": "启动抗反转录病毒治疗",
+    "contraindication": "null",
+    "evidence": "对于慢性肾脏病（CKD）或终末期肾病（ESRD）患者应启动抗反转录病毒治疗，以降低患者的病死率。"
+  },
+  {
+    "condition": "通过肾穿刺明确的HIV相关肾病（HIVAN）患者",
+    "action": "给予抗反转录病毒治疗",
+    "contraindication": "null",
+    "evidence": "有条件的情况下，通过肾穿刺明确的 HIVAN 患者应给予抗反转录病毒治疗，以降低其进展为 ESRD 的风险。"
+  },
+  {
+    "condition": "确诊为CKD[定义为eGFR<60mL/(min·1.73m²)或出现尿蛋白，且超过3个月]的HIV感染者(包括初治患者和经治患者)",
+    "action": "1. 避免使用TDF及其他可引起肾损伤的药物(如非甾体类抗炎药等)；2. 当ABC或AZT不可及或不适用时，可考虑采用二联简化治疗方案(如LPV/r+3TC或LPV/r+RAL)；3. 若受限于药物的可及性而必须使用TDF，需使用CKD-EPI肌酐公式来估算GFR并用以调整药物剂量",
+    "contraindication": "避免使用TDF及其他可引起肾损伤的药物",
+    "evidence": "抗病毒治疗方案：① 确诊为CKD[定义为eGFR<60mL/(min·1.73m²)或出现尿蛋白，且超过3个月]的HIV感染者(包括初治患者和经治患者)，应避免使用TDF及其他可引起肾损伤的药物(如非甾体类抗炎药等)；② 当ABC或AZT不可及或不适用时，可考虑采用二联简化治疗方案(如LPV/r+3TC或LPV/r+RAL)。③ 若受限于药物的可及性而必须使用TDF，需使用CKD-EPI肌酐公式来估算GFR并用以调整药物剂量。"
+  },
+  {
+    "condition": "无论是HAART前还是HAART期间，患者存在下述情况时：①eGFR较基线下降幅度≥25%；②eGFR<60mL/(min·1.73m²)；③蛋白尿>300mg/天；④血尿伴随高血压或严重CKD(eGFR<30 mL/minute/1.73 m²)",
+    "action": "转至肾内科会诊",
+    "contraindication": "null",
+    "evidence": "无论是HAART前还是HAART期间，患者存在下述情况时，应转至肾内科会诊：①eGFR较基线下降幅度≥25%；②eGFR<60mL/(min·1.73m²)；③蛋白尿>300mg/天；④血尿伴随高血压或严重CKD(eGFR<30 mL/minute/1.73 m²)。"
+  },
+  {
+    "condition": "合并CKD的HIV感染者（eGFR<60mL/min）",
+    "action": "1. 避免使用TDF；2. 可用ABC或TAF（ABC仅适用于HLA-B*5701阴性的患者）；3. 如果HIV RNA>100000拷贝/mL，不能使用ABC/3TC联合EFV或ATV/r；4. 当ABC或TAF不可得时，可用LPV/r联合3TC或RAL联合DRV/r（当CD4计数>200个/mm3，HIV RNA<100000拷贝/mL）；5. 查找导致CKD的高危因素及导致肾毒性的药物，适当时停用或调整药物剂量；6. eGFR<50mL/min时不能使用TDF，可使用AZT或ABC替代",
+    "contraindication": "避免使用TDF；不能使用ABC/3TC联合EFV或ATV/r（如果HIV RNA>100000拷贝/mL）；不能使用TDF（当eGFR<50mL/min）",
+    "evidence": "表2 合并CKD的HIV感染者HAART方案的指南推荐汇总：DHHS 2016：合并CKD（定义为eGFR<60mL/min），避免使用TDF；可用ABC或TAF；ABC仅适用于HLA-B*5701阴性的患者；如果HIV RNA>100000拷贝/mL，不能使用ABC/3TC联合EFV或ATV/r；当ABC或TAF不可得时，可用：LPV/r联合3TC或RAL联合DRV/r（当CD4计数>200个/mm3，HIV RNA<100000拷贝/mL）。EACS 2016指南：合并CKD（定义为eGFR<60mL/min>3个月），eGFR<60mL/min时，查找导致CKD的高危因素及导致肾毒性的药物包括ARV药物，适当时停用或调整药物剂量。WHO 2016指南：合并CKD、急性肾损伤和Fan-coni综合征，使用TDF前应检测血清肌酐和eGFR；eGFR<50mL/min、未控制的高血压、未治疗的糖尿病、出现肾功能衰竭时，不能使用TDF，可使用AZT或ABC替代。"
+  }
+]

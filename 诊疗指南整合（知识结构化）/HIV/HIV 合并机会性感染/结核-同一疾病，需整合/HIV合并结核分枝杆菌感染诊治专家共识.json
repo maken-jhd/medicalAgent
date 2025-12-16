@@ -1,0 +1,632 @@
+[
+  {
+    "condition": "所有HIV感染者（无论是否接受抗病毒治疗）",
+    "action": "常规接受潜伏结核感染（LTBI）筛查",
+    "contraindication": "null",
+    "evidence": "建议所有 HIV 感染者,无论是否已接受抗病毒治疗(ART)均应常规接受 LTBI 筛查。"
+  },
+  {
+    "condition": "进行LTBI筛查前",
+    "action": "询问患者是否有结核病相关临床表现（发热、咳嗽、咯血、盗汗、体重减轻、胸痛、乏力、呼吸困难等）",
+    "contraindication": "null",
+    "evidence": "进行 LTBI 筛查前,应询问患者是否有结核病相关临床表现(发热、咳嗽、咯血、盗汗、体重减轻、胸痛、乏力、呼吸困难等)。"
+  },
+  {
+    "condition": "如患者具有结核病相关临床表现",
+    "action": "进行痰涂片、痰培养以及影像学检查排除活动性结核病",
+    "contraindication": "null",
+    "evidence": "如患者具有相关临床表现则进行痰涂片、痰培养以及影像学检查排除活动性结核病可能。"
+  },
+  {
+    "condition": "如无特殊不适",
+    "action": "进一步筛查是否为LTBI，推荐使用干扰素-γ释放试验（IGRA）为首选方法；如IGRA不可获得或无法进行时，可选择结核菌素皮肤试验（TST）",
+    "contraindication": "null",
+    "evidence": "如无特殊不适,则进一步筛查是否为 LTBI,推荐使用 IGRA(首选)和 TST(IGRA 不可获得或无法进行时可选择)。"
+  },
+  {
+    "condition": "LTBI筛查阳性",
+    "action": "考虑为潜伏结核感染（LTBI），并注意排除活动性结核病",
+    "contraindication": "null",
+    "evidence": "阳性者考虑为 LTBI,并应注意排除活动性结核病的可能。"
+  },
+  {
+    "condition": "启动LTBI干预治疗前",
+    "action": "进行痰涂片、痰培养以及影像学检查以排除活动性结核病",
+    "contraindication": "null",
+    "evidence": "在启动 LTBI 干预治疗前,需进行痰涂片、痰培养以及影像学检查以排除活动性结核病可能。"
+  },
+  {
+    "condition": "所有新确诊的HIV感染者",
+    "action": "进行LTBI筛查",
+    "contraindication": "null",
+    "evidence": "所有新确诊的 HIV 感染者均应进行 LTBI 筛查。"
+  },
+  {
+    "condition": "严重免疫抑制的HIV感染者（CD4+ T淋巴细胞计数 < 200个/μL），LTBI筛查阴性，且未接受结核病预防性治疗",
+    "action": "在启动抗病毒治疗后免疫功能重建（CD4+ T淋巴细胞计数 ≥ 200个/μL）后再次进行LTBI筛查",
+    "contraindication": "null",
+    "evidence": "严重免疫抑制的 HIV 感染者(CD4+ T 淋巴细胞计数 < 200 个/μL),如 LTBI 筛查阴性而又没有接受结核病预防性治疗,应在启动 ART 后免疫功能得到重建,即 CD4+ T 淋巴细胞计数 ≥ 200 个/μL 后再次进行 LTBI 筛查。"
+  },
+  {
+    "condition": "反复或正暴露于活动性结核病的HIV感染者",
+    "action": "每年均接受LTBI筛查",
+    "contraindication": "null",
+    "evidence": "对于反复或正暴露于活动性结核病的 HIV 感染者建议每年均接受 LTBI 筛查。"
+  },
+  {
+    "condition": "HIV感染（包括孕妇）合并LTBI",
+    "action": "接受结核病预防性治疗和抗病毒治疗（ART）",
+    "contraindication": "null",
+    "evidence": "HIV 感染(包括孕妇)合并 LTBI 者推荐接受结核病预防性治疗和 ART。"
+  },
+  {
+    "condition": "LTBI的HIV感染者",
+    "action": "尽早接受抗病毒治疗（ART），方案与普通HIV患者相同（如替诺福韦(TDF) + 拉米夫定(3TC) + 依非韦伦(EFV)；齐多夫定(AZT) + 3TC + EFV；可选TDF/恩曲他滨(FTC)、整合酶抑制剂、利匹韦林等）",
+    "contraindication": "尽量不选择含奈韦拉平(NVP)的方案",
+    "evidence": "对于 LTBI 的 HIV 感染者建议尽早接受 ART,ART 方案与普通 HIV 患者相同,但需考虑到药物不良反应增加的可能性。目前我国常用的免疫 ART 方案为:替诺福韦(TDF) + 拉米夫定(3TC) + 依非韦伦(EFV);齐多夫定(AZT) + 3TC + EFV。尽量不选择含奈韦拉平(NVP)的方案,也可根据情况选择 TDF/恩曲他滨(FTC)、整合酶抑制剂、利匹韦林等尚未列入免疫目录的抗病毒药物。"
+  },
+  {
+    "condition": "一般LTBI干预",
+    "action": "使用疗程为9个月的异烟肼（INH）方案（口服,1次/d,300 mg;或900 mg,2次/周），同时联用维生素B6（25 mg/d）以减少周围神经炎",
+    "contraindication": "null",
+    "evidence": "推荐的 LTBI 干预方案如下:(1)推荐疗程为 9 个月的异烟肼(INH)方案(口服,1 次/d,300 mg;或 900 mg,2 次/周),同时联用维生素 B6(25 mg/d)以减少周围神经炎的发生。"
+  },
+  {
+    "condition": "一般LTBI干预",
+    "action": "可口服利福平（RIF）,1次/d,600 mg/次,4个月;或联用利福布汀4个月（具体剂量依据合并用药情况调整）",
+    "contraindication": "null",
+    "evidence": "(2)可口服利福平(RIF),1 次/d,600 mg/次,4 个月;或联用利福布汀 4 个月(具体剂量依据合并用药情况进行调整)。"
+  },
+  {
+    "condition": "使用利福喷丁加INH方案",
+    "action": "可口服利福喷丁加INH,1次/周,疗程12周（此时抗病毒治疗方案只可选择含依非韦伦（EFV）或拉替拉韦（RAL）的方案）",
+    "contraindication": "ART方案不可选择含其他药物",
+    "evidence": "(3)可口服利福喷丁加 INH,1 次/周,疗程 12 周,使用此方案时,ART 方案只可选择含 EFV 或拉替拉韦(RAL)的方案。"
+  },
+  {
+    "condition": "LTBI预防性治疗中",
+    "action": "密切监测药物的不良反应以及服药依从性",
+    "contraindication": "null",
+    "evidence": "LTBI 预防性治疗中应密切监测药物的不良反应以及服药依从性。"
+  },
+  {
+    "condition": "如出现肝脏损害",
+    "action": "按照肝损害后的处理方案进行处理,待肝功能恢复后可重启干预治疗（可在密切观察下使用原来药物或更换为其他干预方案）",
+    "contraindication": "null",
+    "evidence": "如出现肝脏损害应按照肝损害后的处理方案进行处理,待肝功能恢复后可重启干预治疗,可在密切观察下使用原来药物,也可更换为其他干预方案。"
+  },
+  {
+    "condition": "HIV感染者与活动性结核病患者有密切接触，不论TST和IGRA检测结果如何",
+    "action": "均推荐接受结核病预防性治疗",
+    "contraindication": "null",
+    "evidence": "HIV 感染者如果与活动性结核病患者有密切接触,不论 TST 和 IGRA 检测结果如何,均推荐接受结核病预防性治疗。"
+  },
+  {
+    "condition": "所有HIV感染者",
+    "action": "常规进行结核病筛查（项目包括痰涂片和胸部X线或CT检查）",
+    "contraindication": "null",
+    "evidence": "所有 HIV 感染者均应常规进行结核病筛查,常规的筛查项目包括痰涂片和胸部 X 线或 CT 检查。"
+  },
+  {
+    "condition": "具有结核病相关临床表现的患者",
+    "action": "针对可能的结核病发生部位（如中枢神经系统、肺部及腹腔）进行筛查，并包含肺结核筛查",
+    "contraindication": "null",
+    "evidence": "对于具有结核病相关临床表现的患者,针对可能的结核病发生部位,如中枢神经系统、肺部及腹腔等进行筛查。由于肺结核最为常见,因此,肺结核筛查应该包含在任何部位结核病的筛查中。"
+  },
+  {
+    "condition": "胸部X线或CT正常但疑似肺结核",
+    "action": "推荐进行痰涂片和培养以及MTB核酸检测",
+    "contraindication": "null",
+    "evidence": "胸部 X 线或 CT 正常的患者也不能完全排除肺结核可能,对于疑似患者推荐进行痰涂片和培养以及核酸检测。"
+  },
+  {
+    "condition": "肺结核的诊断",
+    "action": "推荐进行连续三次的痰涂片和培养（联合应用固体和液体培养基）",
+    "contraindication": "null",
+    "evidence": "对于肺结核的诊断,推荐进行连续三次的痰涂片和培养。推荐联合进行痰涂片和痰培养,临床标本同时应用固体和液体培养基培养。"
+  },
+  {
+    "condition": "疑似结核病",
+    "action": "尽可能留取标本进行抗酸染色涂片、MTB培养以及组织病理学检查",
+    "contraindication": "null",
+    "evidence": "推荐尽可能留取标本进行抗酸染色涂片和 MTB 培养,以及组织病理学检查来明确诊断,减少诊断性抗结核治疗。"
+  },
+  {
+    "condition": "肺结核疑似患者",
+    "action": "至少进行一次痰标本MTB核酸检测",
+    "contraindication": "null",
+    "evidence": "推荐肺结核疑似患者至少进行一次痰标本 MTB 核酸检测。"
+  },
+  {
+    "condition": "诊断困难的结核病（尤其是肺外结核病）",
+    "action": "可进行IGRA检测和核酸检测以协助诊断",
+    "contraindication": "null",
+    "evidence": "对于诊断困难的结核病尤其是肺外结核病,可进行 IGRA 检测和核酸检测以协助诊断。"
+  },
+  {
+    "condition": "疑似结核病",
+    "action": "推荐进行分枝杆菌型别鉴定（至少区分MTB和非结核分枝杆菌）",
+    "contraindication": "null",
+    "evidence": "推荐进行分枝杆菌型别鉴定,最好能鉴定至具体的菌种,如无法进行菌型鉴定,则至少区分 MTB 和 NTM 以指导治疗。"
+  },
+  {
+    "condition": "高度怀疑结核病但无法明确诊断",
+    "action": "可考虑进行诊断性治疗",
+    "contraindication": "null",
+    "evidence": "对于临床上高度怀疑结核病的患者,在系统检查后仍无法明确诊断的,可考虑进行诊断性治疗。"
+  },
+  {
+    "condition": "不能完全排除结核病的肺部感染患者",
+    "action": "可考虑先经验性抗菌治疗（方案中不宜使用含喹诺酮类、氨基糖苷类或利福霉素等具有抗MTB活性的药物）",
+    "contraindication": "避免使用含喹诺酮类、氨基糖苷类或利福霉素的药物",
+    "evidence": "临床上对于不能完全排除结核病的肺部感染患者,可考虑先经验性抗菌治疗,抗菌治疗方案中不宜使用含有喹诺酮类或氨基糖苷类和利福霉素等具有抗 MTB 活性的药物,并客观评价治疗反应。"
+  },
+  {
+    "condition": "临床表现和检测高度怀疑结核病",
+    "action": "在相关标本采集送检后尽快开始抗结核治疗，初始方案包含异烟肼（INH）、利福平（RIF或利福布汀）、乙胺丁醇（EMB）和吡嗪酰胺（PZA）四种药物",
+    "contraindication": "null",
+    "evidence": "对于临床表现和相关检测尤其是影像学结果高度怀疑结核病的 HIV 感染者,可在相关标本采集送检后尽快开始抗结核治疗。初始治疗方案中应该包含 INH、RIF(或利福布汀)、EMB(乙胺丁醇)和 PZA(吡嗪酰胺)四种药物。"
+  },
+  {
+    "condition": "涂片阳性患者",
+    "action": "先按照MTB感染进行治疗，再根据菌型鉴定结果调整",
+    "contraindication": "不推荐同时进行常规抗MTB和NTM治疗",
+    "evidence": "对于涂片阳性患者,建议先按照 MTB 感染进行治疗,再根据菌型鉴定结果进行调整,不推荐对涂片阳性患者同时进行常规抗 MTB 和 NTM 治疗。"
+  },
+  {
+    "condition": "所有新确诊的结核病患者",
+    "action": "常规检测MTB对一线抗结核药物的敏感性",
+    "contraindication": "null",
+    "evidence": "对于所有新确诊的结核病患者,推荐常规检测 MTB 对一线抗结核药物的敏感性。"
+  },
+  {
+    "condition": "治疗后4个月培养仍为阳性或一度转阴后再次转阳",
+    "action": "再次进行一线药物的敏感性检测",
+    "contraindication": "null",
+    "evidence": "对于治疗后4 个月培养仍为阳性或一度转阴后再次转阳的患者,推荐再次进行一线药物的敏感性检测。"
+  },
+  {
+    "condition": "MTB对一线抗结核药物耐药",
+    "action": "检测MTB对二线药物的敏感性",
+    "contraindication": "null",
+    "evidence": "若 MTB对一线抗结核药物耐药,推荐检测 MTB 对二线药物的敏感性。"
+  },
+  {
+    "condition": "曾接受过抗结核治疗或暴露于耐药结核病",
+    "action": "进行MTB耐药检测",
+    "contraindication": "null",
+    "evidence": "曾接受过抗结核治疗或暴露于耐药结核病的患者,推荐进行 MTB 耐药检测。"
+  },
+  {
+    "condition": "MTB对一线抗结核药物敏感",
+    "action": "使用INH + RIF(或利福布汀) + EMB + PZA进行2个月的强化期治疗，然后使用INH + RIF(或利福布汀)进行4个月的继续期治疗",
+    "contraindication": "null",
+    "evidence": "如果 MTB 对一线抗结核药物敏感,则使用INH + RIF(或利福布汀) + EMB + PZA 进行 2 个月的强化期治疗,然后使用 INH + RIF(或利福布汀)进行 4 个月的继续期治疗。"
+  },
+  {
+    "condition": "确认MTB对INH、RIF和PZA敏感",
+    "action": "停用EMB",
+    "contraindication": "null",
+    "evidence": "一旦确认 MTB 对INH、RIF 和 PZA 敏感,则可以停用 EMB。"
+  },
+  {
+    "condition": "HIV感染合并结核病",
+    "action": "抗结核治疗的强化期和继续期采用每日服药的DOT（直接观察治疗）策略",
+    "contraindication": "不主张间歇治疗",
+    "evidence": "对于 HIV 感染合并结核病,抗结核治疗的强化期和继续期建议采用每日服药的 DOT(Directlyobserved treatment)治疗策略而不主张采取间歇治疗。"
+  },
+  {
+    "condition": "MTB对INH耐药（伴或不伴有对乙胺素耐药）",
+    "action": "停用INH和乙胺素，疗程延长至9个月，强化期使用RIF + EMB + PZA + 左氧氟沙星（或莫西沙星）治疗2个月，继续期使用RIF + EMB + 左氧氟沙星（或莫西沙星）治疗7个月",
+    "contraindication": "null",
+    "evidence": "如果 MTB 对 INH 耐药(伴或不伴有对乙胺素(S)耐药),则应停用 INH 和 S,疗程需延长至 9个月,强化期使用 RIF + EMB + PZA + 左氧氟沙星(或莫西沙星)治疗 2 个月,继续期使用 RIF + EMB +左氧氟沙星(或莫西沙星)治疗 7 个月。"
+  },
+  {
+    "condition": "单耐INH结核病（病变不广泛）",
+    "action": "强化期使用乙胺素（S）+ RIF + EMB + PZA治疗3个月，继续期使用RIF + EMB + PZA治疗6个月",
+    "contraindication": "null",
+    "evidence": "单耐 INH 而结核病变不广泛者,强化期使用 S + RIF +EMB + PZA 治疗 3 个月,继续期使用 RIF + EMB +PZA 治疗 6 个月。"
+  },
+  {
+    "condition": "单耐INH结核病（病变广泛、不耐受乙胺素或复治）",
+    "action": "使用RIF + EMB + PZA + 左氧氟沙星治疗9个月",
+    "contraindication": "null",
+    "evidence": "单耐 INH 而病变广泛、不耐受 S或复治者,则使用 RIF + EMB + PZA + 左氧氟沙星治疗 9 个月。"
+  },
+  {
+    "condition": "合并HIV感染的单耐INH结核病",
+    "action": "可使用标准复治方案：强化期乙胺素（S）+ INH + RIF + EMB + PZA治疗2个月或INH + RIF + EMB + PZA治疗3个月，继续期INH + RIF + EMB治疗6个月",
+    "contraindication": "null",
+    "evidence": "对于合并 HIV 感染的单耐 INH 结核病仍可选用标准复治方案来进行治疗:强化期 S + INH +RIF + EMB + PZA 治疗 2 个月或 INH + RIF + EMB +PZA 治疗 3 个月,继续期 INH + RIF + EMB 治疗 6个月。"
+  },
+  {
+    "condition": "怀疑MTB对RIF耐药",
+    "action": "在初始方案基础上加用氟喹诺酮类药物（左氧氟沙星或莫西沙星）和阿米卡星或卷曲霉素",
+    "contraindication": "null",
+    "evidence": "一旦怀疑 MTB 对 RIF 耐药,则至少在初始方案基础上加用氟喹诺酮类药物(左氧氟沙星或莫西沙星)和阿米卡星或卷曲霉素。"
+  },
+  {
+    "condition": "RIF耐药结核病",
+    "action": "使用二线抗结核药物，疗程至少12~24个月",
+    "contraindication": "null",
+    "evidence": "RIF 耐药结核病患者需使用二线抗结核药物,疗程至少 12 ~ 24 个月。"
+  },
+  {
+    "condition": "单耐RIF结核病（病变不广泛）",
+    "action": "强化期使用乙胺素（S）+ INH + EMB + PZA + 左氧氟沙星治疗3个月，继续期使用INH + EMB + PZA + 左氧氟沙星治疗9个月",
+    "contraindication": "null",
+    "evidence": "单耐 RIF 结核病的治疗意见如下:强化期使用S +INH + EMB + PZA + 左氧氟沙星治疗 3 个月,继续期使用 INH + EMB + PZA + 左氧氟沙星治疗 9 个月(耐 RIF 而结核病变不广泛者)。"
+  },
+  {
+    "condition": "单耐RIF结核病（病变广泛或复治）",
+    "action": "强化期使用乙胺素（S）+ INH + EMB + PZA + 左氧氟沙星治疗3个月，继续期使用INH + EMB + PZA + 左氧氟沙星治疗15个月",
+    "contraindication": "null",
+    "evidence": "单耐 RIF 结核病的治疗意见如下:强化期使用S +INH + EMB + PZA + 左氧氟沙星治疗 3 个月,继续期使用 INH + EMB + PZA + 左氧氟沙星治疗 15 个月(耐 RIF而病变广泛或复治者)。"
+  },
+  {
+    "condition": "结核病复发患者",
+    "action": "建议使用快速药敏检测技术（如Xpert MTB/RIF）检测MTB对RIF和INH的敏感性",
+    "contraindication": "注意假阳性可能",
+    "evidence": "对于复发的患者,建议使用快速药敏检测技术,如 Xpert MTB/RIF 检测 MTB 对RIF 和 INH 的敏感性,但需注意假阳性的可能。"
+  },
+  {
+    "condition": "结核病复发患者",
+    "action": "可重新使用RIF + PZA + INH + EMB（或注射用抗结核药物或喹诺酮类药物）",
+    "contraindication": "null",
+    "evidence": "复发患者可重新使用 RIF + PZA + INH + EMB(或注射用抗结核药物或喹诺酮类药物)。"
+  },
+  {
+    "condition": "结核病复发患者（既往用药不规则，MTB对药敏感）",
+    "action": "根据病情经验性给予扩展强化治疗：RIF + PZA + INH + EMB + 注射用抗结核药物 + 喹诺酮类药物，再根据药敏结果调整",
+    "contraindication": "null",
+    "evidence": "如患者既往用药不规则,MTB 对药的敏感,可根据病情经验性给予扩展的强化治疗:RIF + PZA + INH + EMB + 注射用抗结核药物 + 喹诺酮类药物,再根据药敏试验检测结果调整治疗方案。"
+  },
+  {
+    "condition": "结核病治疗失败（抗结核治疗4个月后培养仍阳性）",
+    "action": "进行MTB耐药性检测",
+    "contraindication": "不可在失败方案基础上单个加用新药",
+    "evidence": "治疗失败的患者需考虑 MTB 存在耐药性的可能,推荐进行 MTB 耐药性检测以指导抗结核治疗,不可在治疗失败的抗结核治疗方案基础上单个加用新的抗结核药物来进行治疗。"
+  },
+  {
+    "condition": "结核病治疗失败",
+    "action": "复治方案至少包含注射用抗结核药物（如阿米卡星、卷曲霉素）、喹诺酮类药物（如左氧氟沙星或莫西沙星）以及口服二线抗结核药物（如对氨基水杨酸、环丝氨酸、丙硫异烟胺等）",
+    "contraindication": "null",
+    "evidence": "复治方案至少应包含注射用抗结核药物(如阿米卡星、卷曲霉素)、喹诺酮类药物(如左氧氟沙星或莫西沙星)以及口服二线抗结核药物(如对氨基水杨酸、环丝氨酸、丙硫异烟胺等)。"
+  },
+  {
+    "condition": "耐多药结核病（MDR-TB）",
+    "action": "治疗应个体化，强化期8个月，总疗程20个月，至少使用5种活性药物（通常包括PZA、注射用抗结核药物、喹诺酮类药物、两种以上如乙硫异烟胺、环丝氨酸、利奈唑胺、氯法齐明等）",
+    "contraindication": "null",
+    "evidence": "耐多药结核病(MDR-TB)和广泛耐药结核病(XDR-TB)的治疗应该个体化。对于 MDR-TB,推荐强化期为 8 个月,总疗程为 20 个月。推荐至少使用 5 种活性药物，通常包括：PZA、注射用抗结核药物（如阿米卡星、卷曲霉素、卡那霉素）、喹诺酮类药物（如左氧氟沙星或莫西沙星或加替沙星）、两种以上下列药物［乙硫异烟胺（或丙硫异烟胺）、环丝氨酸（或特立齐酮）、利奈唑胺、氯法齐明］。"
+  },
+  {
+    "condition": "广泛耐药结核病（XDR-TB）",
+    "action": "强化期至少使用6种药物，继续期至少使用4种药物，可选用贝达喹啉或德拉马尼（与其他敏感药物联用）",
+    "contraindication": "null",
+    "evidence": "XDR-TB 治疗更为困难，研究显示，强化期至少使用 6 种药物而继续期至少使用 4 种药物时治疗成功率增加。如现有的一线和二线药物难以组成有效的抗结核方案，可以选用贝达喹啉或德拉马尼。"
+  },
+  {
+    "condition": "使用贝达喹啉",
+    "action": "前2周,1次/d,400 mg/次,口服;3～24周,3次/周,200 mg/次,口服（与其他至少三种MTB敏感药物联用），密切监测心电图QT间期",
+    "contraindication": "避免与延长QT间期的药物同用",
+    "evidence": "贝达喹啉需与其他至少三种 MTB 敏感的抗结核药物或者至少四种可能敏感的抗结核药物联用，前 2 周，1 次/d，400 mg/次，口服；3～24 周，3 次/周，200 mg/次，口服。用药期间需要密切监测心电图 QT 间期，避免与延长 QT 间期的药物同用。"
+  },
+  {
+    "condition": "使用德拉马尼",
+    "action": "2次/d,100 mg/次,口服24周（与PZA和另外四种二线敏感药物联用），密切监测心电图QT间期",
+    "contraindication": "null",
+    "evidence": "德拉马尼需要与 PZA 和另外四种二线敏感药物联用。治疗期间同样需要监测心电图 QT 间期变化。"
+  },
+  {
+    "condition": "HIV感染者结核病（无特殊情况）",
+    "action": "抗结核治疗疗程6个月",
+    "contraindication": "null",
+    "evidence": "HIV 感染者结核病抗结核治疗的疗程目前尚存在争议。一些研究显示，对绝大多数患者而言，6 个月的疗程是足够的。"
+  },
+  {
+    "condition": "抗结核治疗反应延迟（治疗2个月后仍有临床表现或MTB培养阳性）或胸片出现空洞或晚期HIV感染未使用PZA",
+    "action": "抗结核治疗疗程延长至9个月",
+    "contraindication": "null",
+    "evidence": "对抗结核治疗的反应延迟（即在抗结核治疗 2 个月后仍有结核病相关临床表现或者 MTB 培养仍为阳性）或胸片上出现空洞的结核病或晚期 HIV 感染未能使用 PZA 的患者，抗结核治疗疗程均应延长至 9 个月。"
+  },
+  {
+    "condition": "中枢神经系统结核病",
+    "action": "抗结核治疗疗程延长至9～12个月",
+    "contraindication": "null",
+    "evidence": "中枢神经系统结核病疗程应该延长至 9～12 个月。"
+  },
+  {
+    "condition": "骨及关节结核病",
+    "action": "抗结核治疗疗程延长至6～9个月",
+    "contraindication": "null",
+    "evidence": "骨及关节结核病疗程应延长至 6～9 个月。"
+  },
+  {
+    "condition": "孕妇结核病",
+    "action": "治疗与一般成人相同，但需注意：INH使用时监测肝功能；RIF可用；如方案不包含PZA，疗程延长至9个月；EMB可用",
+    "contraindication": "氨基糖苷类（如链霉素、卡那霉素）和喹诺酮类药物通常不宜用于孕妇；乙硫异烟胺不推荐",
+    "evidence": "孕妇结核病的治疗与一般成人相同，但应注意以下情况:①INH 对人虽无致畸作用，但在妊娠及产后使用 INH 更易引起肝功能损害，因此，应注意监测肝功能。② RIF 对人无致畸作用。③如在化疗方案中不包含 PZA，抗结核疗程需延长至 9 个月。④尚无证据表明 EMB 对人具有致畸作用。⑤孕妇耐药结核病的治疗尚缺乏足够的经验。S 和卡那霉素可引起新生儿听神经损害，故孕妇不宜使用。喹诺酮类药物通常不宜用于孕妇。乙硫异烟胺不推荐用于孕妇。"
+  },
+  {
+    "condition": "结核性脑膜炎",
+    "action": "辅助使用激素（地塞米松前2～4周0.3～0.4 mg·kg⁻¹·d⁻¹，后每周减量0.1 mg·kg⁻¹·d⁻¹，直至0.1 mg·kg⁻¹·d⁻¹，之后改为4 mg/d，再每周减量1 mg/d，总疗程12周）",
+    "contraindication": "null",
+    "evidence": "研究显示，辅助使用激素有助于提高结核性脑膜炎和结核性心包炎患者的生存率。结核性脑膜炎临床研究中激素的使用方法如下：地塞米松前 2～4 周 0.3～0.4 mg·kg-1·d-1，后每周减量 0.1 mg·kg-1·d-1，直至 0.1 mg·kg-1·d-1，之后改为 4 mg/d，再按照每周减量 1 mg/d，总疗程 12 周。"
+  },
+  {
+    "condition": "结核性心包炎",
+    "action": "辅助使用激素（泼尼松或泼尼松龙60 mg/d，后每周减量10 mg/d，总疗程6周）",
+    "contraindication": "null",
+    "evidence": "结核性心包炎临床研究中激素的使用方法如下：泼尼松或泼尼松龙 60 mg/d，后每周减量 10 mg/d，总疗程 6 周。"
+  },
+  {
+    "condition": "HIV感染者合并结核病",
+    "action": "使用INH时同时使用维生素B6",
+    "contraindication": "null",
+    "evidence": "对于 HIV 感染者合并结核病患者，使用 INH 时建议同时使用维生素 B6 进行治疗。"
+  },
+  {
+    "condition": "抗结核治疗后",
+    "action": "每月评估患者服用抗结核药物的耐受性、依从性、疗效及不良反应",
+    "contraindication": "null",
+    "evidence": "抗结核治疗后的疗效评估和随访与非 HIV 感染者相同，由于患者同时接受 ART，建议进行更为密切的随访和观察。每月应对患者服用抗结核药物的耐受性、依从性、疗效以及不良反应进行评价。"
+  },
+  {
+    "condition": "合并结核病的 HIV 感染者",
+    "action": "接受 ART",
+    "contraindication": null,
+    "evidence": "所有合并结核病的 HIV 感染者均推荐接受 ART"
+  },
+  {
+    "condition": "CD4+ T 淋巴细胞计数 < 50 个/μL",
+    "action": "抗结核治疗 2 周内开始 ART",
+    "contraindication": null,
+    "evidence": "CD4+ T 淋巴细胞计数 < 50 个/μL的患者，建议抗结核治疗 2 周内开始 ART"
+  },
+  {
+    "condition": "CD4+ T 淋巴细胞计数≥50 个/μL",
+    "action": "抗结核 8 周内抗病毒治疗",
+    "contraindication": null,
+    "evidence": "CD4+ T 淋巴细胞计数≥50 个/μL 的患者，建议在抗结核 8 周内抗病毒治疗"
+  },
+  {
+    "condition": "中枢神经系统结核病者",
+    "action": "适当推迟启动 ART，不推荐在抗结核治疗 8 周内启动 ART",
+    "contraindication": "在抗结核治疗 8 周内启动 ART",
+    "evidence": "中枢神经系统结核病者 ART 的最佳时间尚待研究，临床研究显示早期 ART 可能增加不良反应和死亡，早期 ART 需慎重，因此，建议此类患者适当推迟启动 ART，不推荐在抗结核治疗 8 周内启动 ART"
+  },
+  {
+    "condition": "中枢神经系统结核病者且较早开始 ART",
+    "action": "密切注意病情变化或咨询相关专家",
+    "contraindication": null,
+    "evidence": "如较早开始 ART，则需密切注意病情变化或咨询相关专家"
+  },
+  {
+    "condition": "HIV 感染妊娠妇女合并活动性结核病",
+    "action": "尽早进行 ART",
+    "contraindication": null,
+    "evidence": "HIV 感染妊娠妇女合并活动性结核病，为了母亲健康和阻断 HIV 母婴传播，应尽早进行 ART"
+  },
+  {
+    "condition": "合并耐药结核病（MDR-TB 或 XDR-TB）",
+    "action": "在确定 MTB 耐药使用二线抗结核药物后 2～4 周开始 ART",
+    "contraindication": null,
+    "evidence": "如合并耐药结核病（MDR-TB 或 XDR-TB），在确定 MTB 耐药使用二线抗结核药物后 2～4 周开始 ART"
+  },
+  {
+    "condition": "临床上一时难以明确或排除结核病的 HIV 感染者",
+    "action": "不应推迟启动 ART",
+    "contraindication": "推迟启动 ART",
+    "evidence": "临床上一时难以明确或排除结核病的 HIV 感染者，不应因此而推迟启动 ART"
+  },
+  {
+    "condition": "使用 RIF 或利福布汀",
+    "action": "可与核苷类逆转录酶抑制剂（NRTIs）合用",
+    "contraindication": null,
+    "evidence": "RIF 或利福布汀均可与核苷类逆转录酶抑制剂（NRTIs）合用"
+  },
+  {
+    "condition": "使用利福布汀与 PIs 或 NNRTIs（除地拉韦定）",
+    "action": "可以合用，但剂量需要调整（参考表1）",
+    "contraindication": null,
+    "evidence": "利福布汀可以与 PIs 或 NNRTIs（除地拉韦定）合用，但在某些合用方案中利福布汀和抗病毒药物的剂量需要进行调整（表 1）"
+  },
+  {
+    "condition": "EFV 与利福布汀联用",
+    "action": "利福布汀的剂量增加至 0.45～0.6 g/d",
+    "contraindication": null,
+    "evidence": "EFV 能降低利福布汀的血药浓度，当二者联用时，利福布汀的剂量应该增加（0.45～0.6 g/d）"
+  },
+  {
+    "condition": "NVP 与利福布汀合用",
+    "action": "不用调整利福布汀的剂量",
+    "contraindication": null,
+    "evidence": "NVP 不影响利福布汀的血药浓度，因此，当二者合用时，不用调整利福布汀的剂量"
+  },
+  {
+    "condition": "不能耐受 EFV 的患者，使用含 NVP 的 ART 方案",
+    "action": "可以使用含 NVP 的 ART 方案",
+    "contraindication": null,
+    "evidence": "对于那些不能耐受 EFV 的患者，也可使用含 NVP 的 ART 方案"
+  },
+  {
+    "condition": "已使用 RIF >2 周的患者，使用含 NVP 的 ART 方案",
+    "action": "NVP 直接进入治疗剂量（200 mg，2 次/d，口服，无需经过导入期）",
+    "contraindication": null,
+    "evidence": "对于已使用 RIF >2 周的患者，NVP 应直接进入治疗剂量（也就是 200 mg，2 次/d，口服，无需经过导入期）"
+  },
+  {
+    "condition": "使用 RIF",
+    "action": "不能与奈非那韦、沙奎那韦、茚地那韦、阿扎那韦及增强型蛋白酶抑制剂合用",
+    "contraindication": "与奈非那韦、沙奎那韦、茚地那韦、阿扎那韦及增强型蛋白酶抑制剂合用",
+    "evidence": "RIF 不能与奈非那韦、沙奎那韦、茚地那韦、阿扎那韦及增强型蛋白酶抑制剂合用"
+  },
+  {
+    "condition": "使用含 RIF 抗结核治疗方案的患者",
+    "action": "ART 方案为 TDF + 3TC + EFV",
+    "contraindication": null,
+    "evidence": "使用含 RIF 抗结核治疗方案的患者推荐的 ART 方案为：TDF + 3TC + EFV"
+  },
+  {
+    "condition": "不能耐受 TDF",
+    "action": "ART 方案为 AZT（或阿巴卡韦）+ 3TC + EFV",
+    "contraindication": null,
+    "evidence": "不能耐受 TDF 的可选择 AZT（或阿巴卡韦）+ 3TC + EFV"
+  },
+  {
+    "condition": "RIF 与 EFV 合用",
+    "action": "EFV 使用标准剂量（600 mg/d）",
+    "contraindication": null,
+    "evidence": "目前推荐与 RIF 合用时 EFV 仍使用标准剂量（600 mg/d）"
+  },
+  {
+    "condition": "基于病情及药物间相互作用",
+    "action": "选择 TDF + 3TC + 整合酶抑制剂",
+    "contraindication": null,
+    "evidence": "也可根据病情及药物间相互作用，选择 TDF + 3TC + 整合酶抑制剂"
+  },
+  {
+    "condition": "使用利福布汀",
+    "action": "可使用 PIs，但需调整剂量；与 PIs 合用时利福布汀的剂量为 0.15 g/d",
+    "contraindication": null,
+    "evidence": "如使用的是利福布汀，则可使用 PIs，但需注意调整相关药物的剂量，与 PIs 合用时利福布汀的推荐剂量为 0.15 g/d"
+  },
+  {
+    "condition": "停止使用 PIs 而改用其他抗病毒药物",
+    "action": "相应调整利福布汀的剂量",
+    "contraindication": null,
+    "evidence": "一旦患者停止使用 PIs 而改用其他抗病毒药物时，则应相应调整利福布汀的剂量"
+  },
+  {
+    "condition": "结核病在启动 ART 后诊断",
+    "action": "根据抗结核病方案对 ART 方案进行相应调整",
+    "contraindication": null,
+    "evidence": "如结核病是在启动 ART 后诊断的，则应根据抗结核病方案对 ART 方案进行相应调整"
+  },
+  {
+    "condition": "艾滋病患者接受 ART 后，结核病的临床症状出现恶化，且与新的机会性感染、HIV 相关肿瘤、药物不良反应、耐药或治疗失败无关，且 ART 后 HIV 病毒下降和（或）CD4+ T 淋巴细胞计数增加",
+    "action": "可诊断为 TB-IRIS",
+    "contraindication": null,
+    "evidence": "TB-IRIS 诊断的参考标准：(1) 艾滋病患者接受 ART 后，结核病的临床症状出现恶化的一种现象。在患者对 ART 产生应答的同时，伴随着过度炎性反应，结核病病情加重及病灶扩大或新出现病灶；(2) 这种临床症状加重与新的机会性感染、HIV 相关肿瘤、药物不良反应、耐药或治疗失败无关；(3) ART 后 HIV 病毒下降和（或）CD4+ T 淋巴细胞计数增加。怀疑存在 TB-IRIS 时，应由三名以上有经验的临床医生同时进行判断，判断结果一致时方可诊断为 TB-IRIS"
+  },
+  {
+    "condition": "计划开始 ART",
+    "action": "先完成结核强化期的治疗以减少 TB-IRIS",
+    "contraindication": null,
+    "evidence": "在开始 ART 前先完成结核强化期的治疗可以减少因免疫重建导致的 TB-IRIS"
+  },
+  {
+    "condition": "艾滋病合并结核病患者",
+    "action": "首先治疗结核，完成强化期后再开始 ART 并进行维续期的抗结核治疗",
+    "contraindication": null,
+    "evidence": "原则上应首先治疗结核,待患者显示较好的临床治疗效果并完成强化期治疗后,再开始 ART 并进行维续期的抗结核治疗"
+  },
+  {
+    "condition": "艾滋病合并结核病患者，除结核性脑膜炎外",
+    "action": "主张尽早接受 ART",
+    "contraindication": null,
+    "evidence": "除结核性脑膜炎外,对于艾滋病合并结核病患者均主张尽早接受 ART"
+  },
+  {
+    "condition": "轻度的 IRIS",
+    "action": "使用非甾体类解热镇痛药物（如布洛芬），无需调整抗病毒和抗结核治疗方案",
+    "contraindication": null,
+    "evidence": "对于轻度的 IRIS 可使用非甾体类解热镇痛药物,如布洛芬进行治疗,无需调整抗病毒和抗结核治疗方案"
+  },
+  {
+    "condition": "重度 IRIS",
+    "action": "使用泼尼松 50~80 mg/d 治疗 2~4 周，后逐渐减量，在 6~12 周将激素逐渐减量直至停用",
+    "contraindication": null,
+    "evidence": "对重度 IRIS 患者可使用泼尼松(1.25 mg·kg^-1·d^-1,即 50~80 mg/d)治疗 2~4 周,后逐渐减量,在 6~12 周将激素逐渐减量直至停用"
+  },
+  {
+    "condition": "出现胃肠道反应",
+    "action": "检测肝功能，注意转氨酶及胆红素变化",
+    "contraindication": null,
+    "evidence": "如果出现胃肠道反应,应检测肝功能,注意转氨酶及胆红素变化"
+  },
+  {
+    "condition": "胃肠道反应非由肝损害所致",
+    "action": "无需调整治疗，继续观察和支持对症处理，或改变服药时间以及随餐服用",
+    "contraindication": null,
+    "evidence": "如果胃肠道反应非由肝损害所致,则通常无需调整治疗,继续观察和支持对症处理,或改变服药时间以及随餐服用"
+  },
+  {
+    "condition": "使用 RIF 或 PZA 出现胃肠道反应",
+    "action": "不可随意停用，给予对症处理",
+    "contraindication": "随意停用 RIF 或 PZA",
+    "evidence": "RIF 和 PZA 的胃肠道反应比较多见,部分患者反应较重,但不可随意停用,一旦停用,抗结核疗效会受到很大影响。给予对症处理后,大部分患者胃肠道反应能逐渐缓解"
+  },
+  {
+    "condition": "皮疹轻微",
+    "action": "继续抗结核，予以抗过敏等对症治疗",
+    "contraindication": null,
+    "evidence": "如果皮疹轻微,可继续抗结核并予以抗过敏等对症治疗"
+  },
+  {
+    "condition": "皮疹严重",
+    "action": "中止所有抗结核药物，直到皮疹明显缓解",
+    "contraindication": null,
+    "evidence": "如果皮疹严重,所有抗结核药物均需中止,直到皮疹明显缓解"
+  },
+  {
+    "condition": "皮疹缓解后重新加用抗结核药物",
+    "action": "逐一添加药物：先 RIF 或利福布汀，然后 INH，再 EMB 或 PZA，间隔 2~3 d；如果皮疹再发，停用最后加用的药物",
+    "contraindication": null,
+    "evidence": "重新加用抗结核药物时应遵循一定的策略:逐一添加,且彼此间间隔 2~3 d。首先加用 RIF 或利福布汀,依次加用 INH、EMB 或 PZA;如果皮疹再发,最后加用的药物应立即停用"
+  },
+  {
+    "condition": "累及粘膜性皮疹考虑由血小板减少所致",
+    "action": "永久性停用 RIF 或利福布汀",
+    "contraindication": "继续使用 RIF 或利福布汀",
+    "evidence": "如果累及粘膜性皮疹考虑由血小板减少所致,则应永久性停用 RIF 或利福布汀"
+  },
+  {
+    "condition": "皮疹伴有发热或黏膜受累",
+    "action": "立即中止所有药物，更换为替代用药组合",
+    "contraindication": null,
+    "evidence": "如果皮疹伴有发热或黏膜受累,所有药物需要立即中止,患者原抗结核病方案更换为替代用药组合"
+  },
+  {
+    "condition": "发热由抗结核药物所致，且排除其他病原感染和结核加重或 IRIS 可能",
+    "action": "停用所有抗结核药物",
+    "contraindication": null,
+    "evidence": "抗结核药物所致发热时,患者尽管高热,但仍可感觉良好;患者发热常无特殊规律,也不一定存在嗜酸性粒细胞升高。如果能够排除其他病原感染和结核加重或 IRIS 可能,则应停用所有抗结核药物"
+  },
+  {
+    "condition": "发热缓解后",
+    "action": "重启抗结核治疗，策略同皮疹处理（逐一添加药物）",
+    "contraindication": null,
+    "evidence": "发热缓解后,应重启抗结核治疗,重启的策略与结核药物所致皮疹后重启抗结核治疗策略相同"
+  },
+  {
+    "condition": "丙氨酸转氨酶(ALT)水平 <3 × 正常值上限(ULN)",
+    "action": "继续严密观察，不更改抗结核方案",
+    "contraindication": null,
+    "evidence": "如丙氨酸转氨酶(ALT)水平 <3 × 正常值上限(ULN),可继续严密观察而不更改抗结核方案"
+  },
+  {
+    "condition": "ALT >5 × ULN 或 ALT ≥3 × ULN 并伴随肝损害的临床表现 或 胆红素 >2 × ULN",
+    "action": "停用可致肝损害的药物，严密评估患者状况",
+    "contraindication": null,
+    "evidence": "以下情况应停用可致肝损害的药物并严密评估患者状况:ALT >5 × ULN;ALT ≥3 × ULN 并伴随肝损害的临床表现;胆红素 >2 × ULN"
+  },
+  {
+    "condition": "停用致肝损害的抗结核药物",
+    "action": "改用 3 个以上无肝损害的抗结核药物进行治疗",
+    "contraindication": null,
+    "evidence": "停用致肝损害的抗结核药物后,应在密切观察下改用 3 个以上无肝损害的抗结核药物进行治疗"
+  },
+  {
+    "condition": "ALT 恢复至 <2 × ULN",
+    "action": "逐一重启药物：先试用 RIF,一周后肝损害若无加重加用 INH,再一周后无加重加用 PZA；若出现肝损害或 ALT 升高，停用最后加用的药物",
+    "contraindication": null,
+    "evidence": "ALT 恢复至 <2 × ULN 时,应逐一重启因肝损害而停用的抗结核药物:先试用 RIF,一周后肝损害若无加重,加用 INH,一周后肝损害仍无加重,再加用 PZA。若出现肝损害的临床表现或 ALT 升高,则停用最后加用的药物"
+  },
+  {
+    "condition": "重启抗结核药物过程中",
+    "action": "RIF、INH 和 PZA 从小剂量逐渐增加至治疗剂量",
+    "contraindication": null,
+    "evidence": "在重启抗结核药物的过程中,RIF、INH 和 PZA 可从小剂量逐渐增加至治疗剂量"
+  }
+]

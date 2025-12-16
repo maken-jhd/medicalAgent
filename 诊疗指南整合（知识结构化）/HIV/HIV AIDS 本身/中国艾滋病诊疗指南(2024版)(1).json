@@ -1,0 +1,584 @@
+[
+  {
+    "condition": "所有患者",
+    "action": "在治疗前进行1次CD4+ T淋巴细胞检测",
+    "contraindication": null,
+    "evidence": "在治疗前进行１次检测"
+  },
+  {
+    "condition": "启动ART后",
+    "action": "启动ART 3个月后进行1次CD4+ T淋巴细胞检测",
+    "contraindication": null,
+    "evidence": "启动ＡＲＴ３个月后进行１次检测"
+  },
+  {
+    "condition": "基线CD4+ T淋巴细胞计数＜200～350／μＬ，且处于治疗后2年内",
+    "action": "每3个月检测CD4+ T淋巴细胞计数",
+    "contraindication": null,
+    "evidence": "如果基线ＣＤ４＋Ｔ淋巴细胞计数＜２００～３５０／μ Ｌ, 建议每３个月检测１次"
+  },
+  {
+    "condition": "基线CD4+ T淋巴细胞计数＞350／μＬ，且处于治疗后2年内",
+    "action": "每6个月检测CD4+ T淋巴细胞计数",
+    "contraindication": null,
+    "evidence": "如果基线ＣＤ４＋Ｔ淋巴细胞计数＞３５０／μ Ｌ, 建议每６个月检测１次"
+  },
+  {
+    "condition": "ART后体内病毒被充分抑制、CD4+ T淋巴细胞计数在350～500／μＬ，且治疗2年后",
+    "action": "每年检测CD4+ T淋巴细胞计数",
+    "contraindication": null,
+    "evidence": "治疗２年后, 对于ＡＲＴ后体内病毒被充分抑制, ＣＤ４＋Ｔ淋巴细胞计数在３５０～５００／μ Ｌ的患者, 建议每年检测１次"
+  },
+  {
+    "condition": "CD4+ T淋巴细胞计数＞500／μＬ，且治疗2年后",
+    "action": "可选择性进行CD4+ T淋巴细胞计数检测",
+    "contraindication": null,
+    "evidence": "＞５００／μＬ的患者可选择性进行ＣＤ４＋Ｔ淋巴细胞计数检测"
+  },
+  {
+    "condition": "出现ＡＲＴ启动延迟、ＡＲＴ失败更换药物方案、或治疗过程中重复检测病毒载量＞２００拷贝／ｍＬ的情况",
+    "action": "每３～６个月检测CD4+ T淋巴细胞计数",
+    "contraindication": null,
+    "evidence": "当出现ＡＲＴ启动延迟, ＡＲＴ失败更换药物方案, 治疗过程中重复检测病毒载量＞２００拷贝／ｍＬ的情况时, 建议每３～６个月检测１次"
+  },
+  {
+    "condition": "所有患者启动ART前",
+    "action": "进行1次HIV核酸检测",
+    "contraindication": null,
+    "evidence": "在启动ＡＲＴ前应进行１次检测, 如果未及时启动ＡＲＴ, 建议定期检测"
+  },
+  {
+    "condition": "初始治疗后",
+    "action": "第1次HIV核酸检测应在治疗后4～8周进行",
+    "contraindication": null,
+    "evidence": "初始治疗后, 建议第１次检测应在治疗后４～８周左右"
+  },
+  {
+    "condition": "治疗后直到病毒载量低于检测下限",
+    "action": "每8～12周检测HIV核酸定量",
+    "contraindication": null,
+    "evidence": "然后每８～１２周检测１次直到低于检测下限"
+  },
+  {
+    "condition": "治疗2年以内，病毒被稳定抑制",
+    "action": "每3～4个月检测HIV核酸定量",
+    "contraindication": null,
+    "evidence": "如果病毒已经被稳定抑制, 治疗后２年以内, 建议每３～４个月检测１次"
+  },
+  {
+    "condition": "治疗2年以后",
+    "action": "每6个月检测HIV核酸定量",
+    "contraindication": null,
+    "evidence": "治疗２年以后, 则每６个月检测１次"
+  },
+  {
+    "condition": "因ＡＲＴ失败调整治疗方案",
+    "action": "第1次病毒载量检测应在调整方案后的4～8周进行, 然后每8～12周检测直到低于检测下限",
+    "contraindication": null,
+    "evidence": "如因ＡＲＴ失败调整治疗方案, 建议第１次病毒载量检测应在调整方案后的４～８周进行, 然后每８～１２周检测１次直到低于检测下限"
+  },
+  {
+    "condition": "因为药物毒性或简化药物方案对病毒抑制的患者更换ART方案",
+    "action": "在调整方案后4～8周进行病毒载量检测",
+    "contraindication": null,
+    "evidence": "如因为药物毒性或简化药物方案对病毒抑制的患者更换ＡＲＴ方案, 应在调整方案后４～８周进行病毒载量检测以确认病毒载量得到抑制"
+  },
+  {
+    "condition": "治疗过程中病毒载量＞200拷贝／mL",
+    "action": "每3个月检测HIV核酸定量",
+    "contraindication": null,
+    "evidence": "如果治疗过程中病毒载量＞２００拷贝／ｍＬ, 建议每３个月检测１次"
+  },
+  {
+    "condition": "新出现AIDS相关临床症状或使用糖皮质激素或抗肿瘤化学治疗药物",
+    "action": "每3个月进行1次病毒载量检测",
+    "contraindication": null,
+    "evidence": "对于新出现ＡＩＤＳ相关临床症状或使用糖皮质激素或抗肿瘤化学治疗药物的患者, 需每３个月进行１次病毒载量检测"
+  },
+  {
+    "condition": "初治HIV感染者启动ART前",
+    "action": "进行基因型耐药检测",
+    "contraindication": null,
+    "evidence": "以下情况进行ＨＩＶ基因型耐药检测: 启动ＡＲＴ前"
+  },
+  {
+    "condition": "治疗后病毒载量下降不理想或病毒学失败需要改变治疗方案时",
+    "action": "进行HIV基因型耐药检测（在未停用抗病毒药物时进行，或如已停药则在停药后4周内进行）",
+    "contraindication": null,
+    "evidence": "治疗后病毒载量下降不理想或病毒学失败需要改变治疗方案时. 对于ＡＲＴ失败者, 耐药检测应在未停用抗病毒药物时进行, 如已停药, 则需在停药后４周内进行耐药检测"
+  },
+  {
+    "condition": "初治HIV感染者",
+    "action": "在ART之前的基因型耐药检测应重点检测反转录酶和蛋白酶的基因突变",
+    "contraindication": null,
+    "evidence": "对于初治ＨＩＶ感染者, 在ＡＲＴ之前的基因型耐药检测基于当地的传播耐药率, 标准的基线基因型耐药检测应重点检测反转录酶和蛋白酶的基因突变"
+  },
+  {
+    "condition": "新诊断的HIV感染者或接受长效卡替拉韦作为PrEP后感染HIV的患者，考虑存在HIV对整合酶抑制剂耐药",
+    "action": "进行整合酶的基因突变检测",
+    "contraindication": null,
+    "evidence": "新诊断的ＨＩＶ感染者或接受长效卡替拉韦 (ｌｏｎｇ -ａｃｔｉｎｇｉｎｊｅｃｔａｂｌｅｃａｂｏｔｅｇｒａｖｉｒ, ＣＡＢ-ＬＡ) 作为ＰｒＥＰ后感染ＨＩＶ的患者如考虑存在ＨＩＶ对整合酶抑制剂 (ｉｎｔｅｇｒａｓｅｉｎｈｉｂｉｔｏｒ, ＩＮＳＴＩ) 耐药, 则应进行整合酶的基因突变检测"
+  },
+  {
+    "condition": "HIV/AIDS患者的配偶和性伴、与HIV/AIDS患者共用注射器的静脉药物依赖者、HIV/AIDS患者所生子女、以及具有疑似HIV感染高危行为和(或)临床症状的临床就诊者",
+    "action": "医务人员主动提供HIV相关检测及相应的咨询服务",
+    "contraindication": null,
+    "evidence": "推荐意见 1: 对 HIV/AIDS 患者的配偶和性伴, 与 HIV/AIDS 患者共用注射器的静脉药物依赖者, HIV/AIDS 患者所生子女, 以及具有疑似 HIV 感染高危行为和 (或) 临床症状的临床就诊者, 医务人员应主动提供 HIV 相关检测及相应的咨询服务 (C1)"
+  },
+  {
+    "condition": "HIV筛查试验阳性者",
+    "action": "需进一步通过补充试验包括抗体补充试验和核酸补充试验来确认HIV感染",
+    "contraindication": null,
+    "evidence": "推荐意见２: ＨＩＶ筛查试验阳性者需进一步通过补充试验包括抗体补充试验 (ＨＩＶ  １／２抗体确证试验) 和核酸补充试验 (ＨＩＶ  １核酸定性和定量检测) 来确认ＨＩＶ感染 (Ａ１)"
+  },
+  {
+    "condition": "初治HIV感染者",
+    "action": "启动ART之前应进行基因型耐药检测",
+    "contraindication": null,
+    "evidence": "推荐意见３: 初治ＨＩＶ感染者在启动ＡＲＴ之前应进行基因型耐药检测. 新确诊ＨＩＶ感染者或使用ＣＡＢ  ＬＡ进行ＰｒＥＰ后仍感染ＨＩＶ的患者, 如考虑存在ＨＩＶ对ＩＮＳＴＩ耐药, 则应进行整合酶基因突变检测 (Ｃ１)"
+  },
+  {
+    "condition": "成人、青少年及18月龄以上儿童",
+    "action": "如果符合以下任一项则诊断HIV感染: 1. HIV抗体筛查试验阳性和HIV补充试验阳性; 2. 有流行病学史或AIDS相关临床表现且2次HIV核酸检测均为阳性; 3. HIV分离试验阳性",
+    "contraindication": null,
+    "evidence": "成人、青少年及 18月龄以上儿童, 符合下列一项者即可诊断 HIV 感染: ① HIV 抗体筛查试验阳性和 HIV 补充试验阳性 (抗体补充试验阳性或核酸定性检测阳性或核酸定量> 1 000 拷贝 / mL) ; ② 有流行病学史或 AIDS 相关临床表现, 2 次 HIV 核酸检测均为阳性; ③ HIV 分离试验阳性"
+  },
+  {
+    "condition": "18月龄及以下儿童",
+    "action": "如果符合以下任一项则诊断HIV感染: 1. 为HIV感染母亲所生且2次HIV核酸检测均为阳性（第2次检测在出生4周后采样）; 2. 有医源性暴露史且HIV分离试验结果阳性或2次HIV核酸检测均为阳性; 3. 为HIV感染母亲所生且HIV分离试验阳性",
+    "contraindication": null,
+    "evidence": "18 月龄及以下儿童, 符合下列一项者即可诊断 HIV 感染: ① 为 HIV 感染母亲所生和 2 次 HIV 核酸检测均为阳性 (第 2 次检测需在出生 4 周后采样进行) ; ② 有医源性暴露史, HIV 分离试验结果阳性或 2 次 HIV 核酸检测均为阳性; ③ 为 HIV 感染母亲所生和 HIV 分离试验阳性"
+  },
+  {
+    "condition": "成人及15岁以上（含15岁）青少年",
+    "action": "如果符合以下任一项则诊断HIV感染早期（I期）: 1. 3~6个月内有流行病学史和(或)有急性HIV感染综合征和(或)有持续性全身性淋巴腺病; 2. 抗体筛查试验无反应且2次核酸检测均为阳性; 3. 1年内出现HIV血清抗体阳转",
+    "contraindication": null,
+    "evidence": "成人及 15岁以上 (含 15岁) 青少年 HIV 感染者, 符合下列一项即可诊断: ① 3~6个月内有流行病学史和 (或) 有急性 HIV 感染综合征和 (或) 有持续性全身性淋巴腺病 (persistent generalized lymphadenopathy, PGL) ; ② 抗体筛查试验无反应, 2 次核酸检测均为阳性; ③ 1 年内出现 HIV 血清抗体阳转"
+  },
+  {
+    "condition": "成人及15岁以上（含15岁）青少年",
+    "action": "如果符合以下任一项则诊断HIV感染中期（II期）: 1. CD4+T淋巴细胞计数为200~500/μL; 2. 无症状或符合无症状期相关临床表现",
+    "contraindication": null,
+    "evidence": "成人及 15岁以上 (含 15岁) 青少年 HIV 感染者, 符合下列一项即可诊断: ① CD4+T淋巴细胞计数为200~500/μL; ② 无症状或符合无症状期相关临床表现"
+  },
+  {
+    "condition": "成人及15岁以上（含15岁）青少年，确诊HIV感染",
+    "action": "如果符合以下任一项则诊断AIDS期: 1. CD4+ T淋巴细胞计数<200/μL; 2. 出现特定指征性疾病（如不明原因持续不规则发热>1个月、腹泻>1个月、6个月内体质量下降10%以上、反复口腔真菌感染等）",
+    "contraindication": null,
+    "evidence": "成人及 15岁以上 (含 15岁) 青少年, HIV 感染加下述各项中的任何一项, 即可确诊为 AIDS 期; 或者确诊 HIV 感染, 且 CD4+ T 淋巴细胞计数 <200/μL, 可诊断为 AIDS 期. ① 不明原因的持续不规则发热 38 ℃ 以上, >1 个月; ② 腹泻 (排便次数多于 3 次 / d) , >1 个月; ③ 6 个月之内体质量下降 10% 以上; ④ 反复发作的口腔真菌感染; ⑤ 反复发作的单纯疱疹病毒感染或带状疱疹病毒感染; ⑥ 肺孢子菌肺炎 (Pneumocystis pneumonia, PCP) ; ⑦ 反复发生的细菌性肺炎; ⑧ 活动性结核病或非结核分枝杆菌 (nontuberculosis mycobacteria, NTM) 病; ⑨ 深部真菌感染; ⑩ 中枢神经系统占位性病变; ⑪ 中青年人出现痴呆; ⑫ 活动性 CMV 感染; ⑬ 弓形虫脑病; ⑭ 马尔尼菲篮状菌病; ⑮ 反复发生的败血症; ⑯ 卡波西肉瘤, 淋巴瘤"
+  },
+  {
+    "condition": "诊断为PCP",
+    "action": "卧床休息，给予吸氧，注意水和电解质平衡",
+    "contraindication": null,
+    "evidence": "对症治疗, 卧床休息, 给予吸氧, 注意水和电解质平衡"
+  },
+  {
+    "condition": "PCP轻中度患者",
+    "action": "口服复方磺胺甲噁唑，TMP 15~20mg/kg/d，SMZ 75~100mg/kg/d，分3~4次用，疗程21d，必要时延长疗程",
+    "contraindication": "对SMZ-TMP过敏",
+    "evidence": "轻-中度患者口服TMP 15~20 mg·kg^-1^·d^-1^, SMZ 75~100 mg·kg^-1^·d^-1^, 分3~4次用, 疗程为21d, 必要时可延长疗程"
+  },
+  {
+    "condition": "PCP重症患者",
+    "action": "静脉用复方磺胺甲噁唑，TMP 15~20mg/kg/d，SMZ 75~100mg/kg/d，分3~4次用，疗程21d，必要时延长疗程",
+    "contraindication": "对SMZ-TMP过敏",
+    "evidence": "重症患者给予静脉用药, 剂量同口服, 必要时可延长疗程"
+  },
+  {
+    "condition": "PCP患者且对SMZ-TMP过敏",
+    "action": "克林霉素600~900mg静脉滴注每8h1次，或450mg口服每6h1次；联合伯氨喹15~30mg口服1次/d，疗程21d",
+    "contraindication": null,
+    "evidence": "克林霉素600~900mg,静脉滴注,每8h1次,或450mg口服,每6h1次;联合应用伯氨喹15~30mg,口服,1次/d,疗程为21d"
+  },
+  {
+    "condition": "PCP患者且对SMZ-TMP过敏",
+    "action": "氨苯砜100mg口服1次/d；联合应用TMP 15~20mg/kg/d，分3~4次口服，疗程21d",
+    "contraindication": null,
+    "evidence": "氨苯砜100mg,口服,1次/d;联合应用TMP15~20mg·kg^-1^·d^-1^,分3~4次口服,疗程为21d"
+  },
+  {
+    "condition": "PCP患者且对SMZ-TMP过敏",
+    "action": "喷他脒3~4mg/kg/d静脉滴注(60min以上)，1次/d，疗程21d",
+    "contraindication": null,
+    "evidence": "或喷他脒3~4mg·kg^-1^·d^-1^,1次/d,缓慢静脉滴注(60min以上),疗程为21d"
+  },
+  {
+    "condition": "PCP中重度患者且PaO2<70mmHg或肺泡-动脉血氧分压差>35mmHg",
+    "action": "泼尼松40mg 2次/d口服5d，而后20mg 2次/d口服5d，最后20mg 1次/d口服11d，总疗程21d；或静脉用甲泼尼龙（剂量为泼尼松的75%）",
+    "contraindication": null,
+    "evidence": "中重度患者(PaO2<70mmHg或肺泡-动脉血氧分压差>35mmHg)早期(72h内)可应用糖皮质激素治疗,泼尼松40mg,2次/d,口服5d,而后改为20mg,2次/d,口服5d,最后改为20mg,1次/d,口服11d,激素总疗程为21d,静脉用甲泼尼龙剂量为上述泼尼松的75%"
+  },
+  {
+    "condition": "PCP患者且进行性呼吸困难明显",
+    "action": "给予辅助通气",
+    "contraindication": null,
+    "evidence": "如患者进行性呼吸困难明显,可给予辅助通气"
+  },
+  {
+    "condition": "CD4+T淋巴细胞计数<200/μL的成人和青少年（包括妊娠期妇女及接受ART者）且一级预防",
+    "action": "复方磺胺甲噁唑1片/d",
+    "contraindication": "对SMZ-TMP过敏",
+    "evidence": "药物选择,首选SMZ-TMP,一级预防为1片/d,二级预防为2片/d"
+  },
+  {
+    "condition": "CD4+T淋巴细胞计数<200/μL的成人和青少年（包括妊娠期妇女及接受ART者）且二级预防",
+    "action": "复方磺胺甲噁唑2片/d",
+    "contraindication": "对SMZ-TMP过敏",
+    "evidence": "药物选择,首选SMZ-TMP,一级预防为1片/d,二级预防为2片/d"
+  },
+  {
+    "condition": "CD4+T淋巴细胞计数<200/μL的成人和青少年（包括妊娠期妇女及接受ART者）且对SMZ-TMP不能耐受或过敏",
+    "action": "使用氨苯砜",
+    "contraindication": null,
+    "evidence": "若患者对该药不能耐受或者过敏,替代药品有氨苯砜"
+  },
+  {
+    "condition": "HIV/AIDS合并结核病且结核分枝杆菌对一线抗结核药物敏感",
+    "action": "强化期：异烟肼+利福平（或利福布汀）+乙胺丁醇+吡嗪酰胺治疗2个月；巩固期：异烟肼+利福平（或利福布汀）治疗4个月",
+    "contraindication": null,
+    "evidence": "如果结核分枝杆菌对一线抗结核药物敏感,则使用异烟肼+利福平(或利福布汀)+乙胺丁醇+吡嗪酰胺进行2个月的强化期治疗,然后使用异烟肼+利福平(或利福布汀)进行4个月的巩固期治疗"
+  },
+  {
+    "condition": "HIV/AIDS合并药物敏感肺结核",
+    "action": "前2个月：利福喷丁+莫西沙星+异烟肼+吡嗪酰胺；后2个月：利福喷丁+莫西沙星+异烟肼",
+    "contraindication": null,
+    "evidence": "使用含利福喷丁和莫西沙星的4个月短程方案(前2个月利福喷丁+莫西沙星+异烟肼+吡嗪酰胺,后2个月利福喷丁+莫西沙星+异烟肼)"
+  },
+  {
+    "condition": "HIV/AIDS合并结核病且抗结核治疗2个月后仍有结核病相关临床表现或者结核分枝杆菌培养仍为阳性",
+    "action": "抗结核治疗疗程延长至9个月",
+    "contraindication": null,
+    "evidence": "对抗结核治疗反应延迟(即在抗结核治疗2个月后仍有结核病相关临床表现或者结核分枝杆菌培养仍为阳性),骨和关节结核患者,抗结核治疗疗程应延长至9个月"
+  },
+  {
+    "condition": "HIV/AIDS合并中枢神经系统结核",
+    "action": "抗结核治疗疗程延长至9~12个月",
+    "contraindication": null,
+    "evidence": "中枢神经系统结核患者疗程应延长至9~12个月"
+  },
+  {
+    "condition": "HIV/AIDS合并MAC感染",
+    "action": "克拉霉素500mg/次 2次/d（或阿奇霉素500mg/d）+乙胺丁醇15mg/kg/d+利福布汀300~600mg/d，疗程至少12个月",
+    "contraindication": null,
+    "evidence": "MAC感染治疗的首选方案为克拉霉素500mg/次,2次/d(或阿奇霉素500mg/d)+乙胺丁醇15mg·kg-1·d-1,同时联合应用利福布汀(300~600mg/d).疗程通常至少为12个月"
+  },
+  {
+    "condition": "HIV/AIDS合并CMV视网膜炎",
+    "action": "更昔洛韦5mg/kg静脉滴注每12h1次，连续14~21d强化治疗，然后5mg/kg静脉滴注1次/d预防治疗",
+    "contraindication": null,
+    "evidence": "更昔洛韦5mg/kg静脉滴注,每12h1次,连续14~21d强化治疗,然后5mg/kg静脉滴注,1次/d,预防治疗"
+  },
+  {
+    "condition": "HIV/AIDS合并弓形虫脑病",
+    "action": "乙胺嘧啶负荷量100mg口服2次/d，此后50~75mg/d维持+磺胺嘧啶1.0~1.5g口服4次/d，疗程至少6周",
+    "contraindication": null,
+    "evidence": "病原治疗,首选乙胺嘧啶(负荷量为100mg,口服,2次/d,此后50~75mg/d维持)+磺胺嘧啶(1.0~1.5g,口服,4次/d)"
+  },
+  {
+    "condition": "HIV/AIDS合并口腔念珠菌感染",
+    "action": "氟康唑100~200mg/d口服7~14d",
+    "contraindication": null,
+    "evidence": "口腔念珠菌感染者首选口服氟康唑100~200mg/d,共7~14d"
+  },
+  {
+    "condition": "HIV/AIDS合并隐球菌性脑膜炎或脑膜脑炎",
+    "action": "诱导期：两性霉素B0.5~0.7mg/kg/d或两性霉素B脂质体3~4mg/kg/d+氟胞嘧啶100mg/kg/d至少4周；巩固期：氟康唑600~800mg/d至少6周；维持期：氟康唑200mg/d至CD4+T淋巴细胞计数>100/μL持续6个月",
+    "contraindication": null,
+    "evidence": "诱导期治疗经典方案为两性霉素B+氟胞嘧啶...诱导治疗期至少4周；在临床症状改善与脑脊液培养转阴后改为氟康唑(600~800mg/d)进行巩固期治疗,巩固期治疗至少6周,而后改为氟康唑(200mg/d)进行维持治疗,维持期至少1年,持续至患者通过ART后CD4+T淋巴细胞计数>100/μL并持续至少6个月时可停药"
+  },
+  {
+    "condition": "确诊 HIV 感染",
+    "action": "立即开始抗反转录病毒治疗",
+    "contraindication": "null",
+    "evidence": "一旦确诊 HIV 感染, 无论 CD4+ T 淋巴细胞水平高低, 均建议立即开始治疗."
+  },
+  {
+    "condition": "有条件患者",
+    "action": "快速启动 ART (确诊后 7 d 内) 或确诊当天启动 ART",
+    "contraindication": "null",
+    "evidence": "有条件患者可考虑快速启动 ART (确诊后 7 d 内) 或确诊当天启动 ART."
+  },
+  {
+    "condition": "成人初治患者",
+    "action": "使用 2 种 NRTI 类骨干药物联合第三类药物治疗, 第三类药物为 INSTI、NNRTI 或增强型 PI (含利托那韦或考比司他); 或选用复方单片制剂 (如 BIC/FTC/TAF, EVG/c/FTC/TAF, DTG/ABC/3TC, DOR/3TC/TDF, ANV/3TC/TDF)",
+    "contraindication": "null",
+    "evidence": "初治患者推荐方案为 2 种 NRTI 类骨干药物联合第三类药物治疗, 第三类药物可以为 INSTI 或 NNRTI 或者增强型 PI (含利托那韦或考比司他) ; 也可以选用复方单片制剂 (single-tablet regimen, STR) ."
+  },
+  {
+    "condition": "HBsAg 阴性, 病毒载量 <5 × 10^5 拷贝 / mL 的初治患者",
+    "action": "首选多替拉韦 / 拉米夫定的 ART 方案",
+    "contraindication": "对于 HIV 病毒载量, HBV 血清学结果尚不可及的 HIV 感染者, 不推荐 DTG/3TC 用于快速启动治疗",
+    "evidence": "对于 HBsAg 阴性, 病毒载量 <5 × 10^5 拷贝 / mL 的初治患者可首选多替拉韦 / 拉米夫定的 ART 方案"
+  },
+  {
+    "condition": "确诊 HIV 感染的儿童",
+    "action": "立即开始抗反转录病毒治疗",
+    "contraindication": "null",
+    "evidence": "儿童一旦确诊 HIV 感染, 无论 CD4+ T 淋巴细胞水平高低, 均建议立即开始 ART."
+  },
+  {
+    "condition": "从出生至 4 周内新生儿",
+    "action": "使用 ABC(或 AZT) + 3TC + RAL; 或 ABC(或 AZT) + 3TC + NVP(或 LPV/r)",
+    "contraindication": "null",
+    "evidence": "从出生至 4 周内新生儿: ABC(或 AZT) + 3TC + RAL 或 ABC(或 AZT) + 3TC + NVP(或 LPV/r)"
+  },
+  {
+    "condition": "4 周至 3 岁内儿童",
+    "action": "使用 ABC + 3TC + DTG; BIC/FTC/TAF; 或 ABC(或 AZT) + 3TC + NVP(或 RAL 或 LPV/r)",
+    "contraindication": "TDF 不用于 < 2 岁的儿童",
+    "evidence": "4 周至 3 岁内儿童: ABC + 3TC + DTG; BIC/ FTC/TAF; 或 ABC(或 AZT) + 3TC + NVP(或 RAL 或 LPV/r)"
+  },
+  {
+    "condition": "≥3 岁儿童及青少年",
+    "action": "使用 ABC + 3TC + DTG (或 EFV), 或 BIC/FTC/TAF; 或 TDF (或 AZT) + 3TC + NVP(或 LPV/r, 或 RAL), 或 EVG/c/FTC/TAF",
+    "contraindication": "null",
+    "evidence": "≥3 岁儿童及青少年: ABC + 3TC + DTG (或 EFV), 或 BIC/FTC/TAF; 或 TDF (或 AZT) + 3TC + NVP(或 LPV/r, 或 RAL), 或 EVG/c/FTC/TAF"
+  },
+  {
+    "condition": "感染 HIV 的母亲坚持母乳喂养",
+    "action": "整个哺乳期都应继续 ART, 方案与妊娠期间 ART 方案一致; 新生儿在 6 月龄之后立即停止母乳喂养",
+    "contraindication": "病毒载量仍可以检测到的母亲, 不推荐母乳喂养",
+    "evidence": "如果坚持要母乳喂养, 则整个哺乳期都应继续 ART, 方案与妊娠期间 ART 方案一致, 且新生儿在 6 月龄之后立即停止母乳喂养."
+  },
+  {
+    "condition": "HIV/AIDS 合并结核病患者",
+    "action": "推荐一线 ART 方案: 替诺福韦 (齐多夫定) + 拉米夫定 (恩曲他滨) + 依非韦伦, 也可选择含有 INSTI 的 ART 方案",
+    "contraindication": "BIC 或艾维雷韦 / 考比司他不推荐与利福霉素类药物合用",
+    "evidence": "HIV/AIDS 合并结核病患者推荐的一线 ART 方案是: 替诺福韦 (齐多夫定) + 拉米夫定 (恩曲他滨) + 依非韦伦, 也可选择含有 INSTI 的 ART 方案."
+  },
+  {
+    "condition": "HIV/AIDS 合并结核病患者使用多替拉韦与利福平合用",
+    "action": "增加多替拉韦的剂量至 50 mg, 2 次 / d",
+    "contraindication": "null",
+    "evidence": "多替拉韦与利福平合用时, 需要增加多替拉韦的剂量 (50 mg,2 次 / d)"
+  },
+  {
+    "condition": "HIV/HBV 合并感染者",
+    "action": "尽早启动 ART; ART 方案应包含 2 种具有抗 HBV 活性的抗病毒药物, NRTI 推荐选择替诺福韦 (或 TAF) + 拉米夫定 (或恩曲他滨)",
+    "contraindication": "不建议选择仅含有 1 种对 HBV 有活性的核苷类药物的方案",
+    "evidence": "HIV/HBV 合并感染者应同时治疗 2 种病毒感染, 包括 2 种抗 HBV 活性的药物, ART 方案中 NRTI 推荐选择替诺福韦 [或丙酚替诺福韦 (tenofovir alafenamide, TAF) ]+ 拉米夫定 (或恩曲他滨)"
+  },
+  {
+    "condition": "HIV/HBV 合并感染者, eGFR <60 mL·min-1·1.73 m-2",
+    "action": "不选择替诺福韦或调整替诺福韦剂量; 如 eGFR <60 mL·min-1·1.73 m-2 而 >30 mL·min-1·1.73 m-2, 可选择含 TAF 的 ART 方案; 不能使用替诺福韦或 TAF 时, 在 ART 方案基础上加用恩替卡韦",
+    "contraindication": "TAF 尚未被批准用于 eGFR <30 mL·min-1·1.73 m-2 的患者",
+    "evidence": "肾功能不全患者需注意: ① 如肾小球滤过率估算值 (estimated glomerular filtration rate, eGFR) <60 mL·min-1·1.73 m-2, 不选择替诺福韦或调整替诺福韦剂量. ② 如 eGFR <60 mL·min-1·1.73 m-2 而 >30 mL·min-1·1.73 m-2, 可选择含 TAF 的 ART 方案. TAF 尚未被批准用于 eGFR <30 mL·min-1·1.73 m-2 的患者. ③ 不能使用替诺福韦或 TAF 时, 在 ART 方案的基础上应加用恩替卡韦."
+  },
+  {
+    "condition": "HIV/HCV 合并感染者",
+    "action": "尽早启动 ART 和积极抗 HCV 治疗; 抗 HCV 治疗的方案和疗程与单纯 HCV 感染者相同",
+    "contraindication": "注意药物不良反应的累加及药物代谢的相互影响; 避免与部分长半衰期药物间的相互作用",
+    "evidence": "合并 HCV 感染均建议抗 HCV 治疗, 治疗方案参考丙型肝炎治疗相关指南, 药物选择方面需考虑药物不良反应的累加及药物代谢的相互影响; 应根据丙型肝炎治疗药物更换无药物相互作用的 ART 方案, 可考虑短期更换为含 INSTI 或 FI 的 ART 方案. 为避免与部分长半衰期药物间的相互作用, 建议在更改 ART 方案后 2 周再启动抗 HCV 治疗."
+  },
+  {
+    "condition": "HIV/HCV 合并感染者, CD4+ T 淋巴细胞计数 <200/μL",
+    "action": "先启动 ART, 待免疫功能恢复后再开始抗 HCV 治疗",
+    "contraindication": "null",
+    "evidence": "CD4+ T 淋巴细胞计数 <200/μL 者推荐先启动 ART, 待免疫功能得到一定程度恢复后再适时开始抗 HCV 治疗"
+  },
+  {
+    "condition": "启动 ART 后",
+    "action": "定期监测: 病毒载量应在 4 周内下降 1 个 lg 以上, 3~6 个月低于检测下限; CD4+ T 淋巴细胞计数在 1 年内增加 30% 或增长 100/μL; 每 3~6 个月进行临床和实验室评估",
+    "contraindication": "null",
+    "evidence": "ART 的有效性主要通过以下三方面进行评估, 病毒学指标, 免疫学指标和临床症状, 其中病毒学的改变是最重要的指标. ① 病毒学指标: 大多数患者行 ART 后血浆病毒载量 4 周内应下降 1 个 lg 以上, 在治疗后的 3 ～ 6 个月病毒载量应低于检测下限. ② 免疫学指标: 启动 ART 后 1 年内, CD4+ T 淋巴细胞计数与治疗前相比增加 30% 或增长 100/μL, 提示治疗有效. 在 ART 过程中要定期进行临床评估和实验室检测以评价 ART 的效果, 及时发现抗病毒药物的不良反应, 以及是否产生病毒耐药性等. 启动 ART 后建议每 3 ～ 6 个月进行病毒学, 免疫学和临床情况随访以评价 ART 的疗效, 及时发现抗病毒药物的不良反应及是否出现病毒耐药等, 以便及时更换药物而保证 ART 成功."
+  },
+  {
+    "condition": "持续进行 ART 的患者, 开始治疗 24 周后血浆病毒载量持续 >200 拷贝/mL; 或病毒学反弹 (病毒载量 ≥200 拷贝/mL)",
+    "action": "评估治疗依从性、药物相互作用; 进行 HIV 耐药检测; 调整 ART 方案",
+    "contraindication": "null",
+    "evidence": "病毒学失败的定义为在持续进行 ART 的患者中, 开始治疗 (启动或调整) 24 周后血浆病毒载量持续 >200 拷贝/mL; 或病毒学反弹, 在达到病毒学完全抑制后又出现病毒载量 ≥200 拷贝/mL 的情况. 出现病毒学失败时应首先评估患者的治疗依从性, 药物 - 药物或药物 - 食物相互作用, 尤其服药依从性是治疗成败的决定因素. ART 失败的患者应根据 HIV 耐药检测结果来进行 ART 方案调整."
+  },
+  {
+    "condition": "ART 失败的患者",
+    "action": "更换至少 2 种 ART 药物, 最好选择 3 种具有抗病毒活性的药物; 新方案包括 1 种具有完全抗病毒活性的增强 PI 或 INSTI 或新机制药物 (如衣壳抑制剂或融合抑制剂)",
+    "contraindication": "null",
+    "evidence": "ART 失败的患者应根据 HIV 耐药检测结果来进行 ART 方案调整, 用药方案选择的原则是更换至少 2 种 ART 药物, 最好选择 3 种具有抗病毒活性的药物 (可以是之前使用的药物种类中具有抗病毒活性的药物如拉米夫定) ; 新的 ART 方案通常应包括 1 种具有完全抗病毒活性的增强 PI 或 INSTI 或未曾使用过的新的作用机制药物如衣壳抑制剂和 FI, 或上述药物联合应用."
+  },
+  {
+    "condition": "低病毒血症 (连续 2 次可检测到 HIV RNA 在 50~200 拷贝/mL 之间)",
+    "action": "评估依从性、耐受性和药物不良反应、药物相互作用; 通常不需要改变治疗方案; 每 3 个月监测 1 次 HIV RNA",
+    "contraindication": "null",
+    "evidence": "如果出现连续 2 次可检测到 HIV RNA 在 50 ～ 200 拷贝 / mL 之间, 称为 LLV. LLV 需评估患者的依从性, 耐受性和药物不良反应, 药物相互作用. LLV 通常不需要改变治疗方案, 但需每 3 个月监测 1 次 HIV RNA, 以评估是否需要调整 ART 方案."
+  },
+  {
+    "condition": "病毒载量 ≥1×10⁵ 拷贝 / mL 的成年患者",
+    "action": "阿兹夫定与 NRTI 及 NNRTI 联用",
+    "contraindication": "null",
+    "evidence": "阿兹夫定: 与 NRTI 及 NNRTI 联用, 治疗病毒载量 ≥1×10⁵ 拷贝 / mL 的成年患者"
+  },
+  {
+    "condition": "HLA-B5701 阳性者",
+    "action": "不推荐使用阿巴卡韦",
+    "contraindication": "HLA-B5701 阳性者不推荐使用",
+    "evidence": "阿巴卡韦: 用前查 HLA-B5701, 阳性者不推荐使用"
+  },
+  {
+    "condition": "病毒载量 ≥1 × 10^5 拷贝 / mL 的患者",
+    "action": "不推荐使用利匹韦林",
+    "contraindication": "不推荐用于病毒载量 ≥1 × 10^5 拷贝 / mL 的患者",
+    "evidence": "利匹韦林: 不推荐用于病毒载量 ≥1 × 10^5 拷贝 / mL 的患者"
+  },
+  {
+    "condition": "基线 CD4+ T 淋巴细胞计数 >250/μL 的患者",
+    "action": "尽量避免使用含奈韦拉平的治疗方案",
+    "contraindication": "合并 HCV 感染者避免使用含奈韦拉平的方案",
+    "evidence": "奈韦拉平: 对于基线 CD4+ T 淋巴细胞计数 >250/μL 的患者要尽量避免使用含 NVP 的治疗方案, 合并 HCV 感染者避免使用含 NVP 的方案"
+  },
+  {
+    "condition": "病毒载量 ≥1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者",
+    "action": "不推荐使用依非韦伦",
+    "contraindication": "不推荐用于病毒载量 ≥1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者",
+    "evidence": "依非韦伦: EFV 不推荐用于病毒载量 ≥1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者"
+  },
+  {
+    "condition": "病毒载量 <1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者",
+    "action": "使用利匹韦林",
+    "contraindication": "仅用于病毒载量 <1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者",
+    "evidence": "利匹韦林: RPV 仅用于病毒载量 <1 × 10^5 拷贝 / mL 和 CD4+ T 淋巴细胞计数 >200/μL 的患者"
+  },
+  {
+    "condition": "存在 INSTI 耐药的情况",
+    "action": "多替拉韦首选剂量为 50 mg, 2 次 / d",
+    "contraindication": "null",
+    "evidence": "多替拉韦: 存在 INSTI 耐药的情况下, 首选剂量为 50 mg, 2 次 / d"
+  },
+  {
+    "condition": "IRIS患者接受ART后出现原有感染恶化（如结核病灶扩大、隐球菌性脑膜炎颅内压升高）",
+    "action": "继续ART，无需特殊处理（自限性）",
+    "contraindication": "严重危及生命的IRIS病例需暂停ART",
+    "evidence": "IRIS 出现后应继续进行 ART, 除非是严重, 危及生命的 IRIS 病例. 表现为原有感染恶化的 IRIS 通常为自限性, 无需特殊处理可自愈"
+  },
+  {
+    "condition": "IRIS患者表现为潜伏感染活动化",
+    "action": "进行针对性抗病原治疗",
+    "contraindication": null,
+    "evidence": "表现为潜伏感染的 IRIS, 需要进行针对性的抗病原治疗"
+  },
+  {
+    "condition": "重度结核相关IRIS或中枢神经系统疾病相关的严重IRIS",
+    "action": "使用糖皮质激素治疗",
+    "contraindication": null,
+    "evidence": "对于重度结核相关 IRIS 及中枢神经系统疾病 (如结核性脑膜炎, 进行性多灶性白质脑病) 相关的严重 IRIS 患者推荐使用糖皮质激素治疗"
+  },
+  {
+    "condition": "CMV感染患者需治疗IRIS",
+    "action": "慎用糖皮质激素；如需使用，采取短程口服治疗",
+    "contraindication": "糖皮质激素可能加重CMV感染",
+    "evidence": "CMV 感染患者慎用糖皮质激素, 如需要使用, 应采取短程口服治疗"
+  },
+  {
+    "condition": "接受糖皮质激素治疗的IRIS患者",
+    "action": "密切监测机会性感染（包括CMV视网膜炎和结核病）",
+    "contraindication": null,
+    "evidence": "密切监测接受糖皮质激素治疗的患者是否发生机会性感染, 包括 CMV 性视网膜炎和结核病"
+  },
+  {
+    "condition": "接受ART 4年以上，病毒载量<50拷贝/mL超过3年，CD4+T淋巴细胞计数持续<350/μL，且排除其他免疫低下原因",
+    "action": "诊断为免疫功能重建不全（INR）",
+    "contraindication": null,
+    "evidence": "接受 ART 4 年以上, 外周血病毒载量低于检测下限 (< 50 拷贝 / mL) 超过 3 年, CD4+T 淋巴细胞计数仍持续低于 350/μL; 同时除外其他可能导致 CD4+T 淋巴细胞计数长期低下的原因"
+  },
+  {
+    "condition": "免疫功能重建不全（INR）患者",
+    "action": "定期监测，根据CD4+T淋巴细胞水平进行机会性感染预防和NADE筛查；不建议为改善免疫重建调整ART",
+    "contraindication": "已实现病毒学抑制者随意调整ART",
+    "evidence": "免疫功能重建不全缺乏明确有效的治疗方法, 临床应定期监测, 并需根据 CD4+T 淋巴细胞水平进行机会性感染的预防和 NADE 的筛查. 对于已实现病毒学抑制的患者, 不建议为改善免疫重建而随意进行 ART 调整"
+  },
+  {
+    "condition": "25岁以上女性HIV感染者",
+    "action": "定期进行宫颈癌筛查",
+    "contraindication": null,
+    "evidence": "年龄在 25 岁以上的女性 HIV 感染者, 建议定期进行宫颈癌的筛查"
+  },
+  {
+    "condition": "AIDS合并肿瘤患者",
+    "action": "尽早启动ART；选用骨髓抑制作用和药物相互作用小的ART方案；采用多学科合作诊治（MDT）模式",
+    "contraindication": null,
+    "evidence": "所有的 AIDS 合并肿瘤患者均建议尽早启动 ART, 需要注意抗病毒药物和抗肿瘤药物之间的相互作用, 尽量选用骨髓抑制作用和药物相互作用小的 ART 方案. 提倡多学科合作诊治 (multi-disciplinary treatment, MDT) 模式的应用"
+  },
+  {
+    "condition": "感染HIV的妊娠期妇女",
+    "action": "终身ART；首选方案：FTC/TDF（或TAF+拉米夫定/阿巴卡韦）+多替拉韦或拉替拉韦",
+    "contraindication": "含考比司他的方案（妊娠中晚期血药浓度不足）",
+    "evidence": "所有感染 HIV 的妊娠期妇女不论其 CD4+ T 淋巴细胞计数多少或疾病临床分期如何, 均应尽早终身接受 ART; 妊娠期妇女 ART 首选包含多替拉韦或拉替拉韦的三联 ART 方案"
+  },
+  {
+    "condition": "HIV感染母亲所生婴儿（普通暴露风险：母亲ART依从性好且长期病毒学抑制）",
+    "action": "出生后6小时内给予4周齐多夫定或奈韦拉平预防；母乳喂养者首选奈韦拉平",
+    "contraindication": null,
+    "evidence": "普通暴露风险儿童: 对于母亲已接受 ART, 依从性较好, 且达到长期病毒学抑制者, 可给予 4 周齐多夫定或奈韦拉平进行预防, 如选择母乳喂养, 应首选奈韦拉平"
+  },
+  {
+    "condition": "HIV感染母亲所生婴儿（高暴露风险：母亲ART未达长期病毒学抑制、治疗<12周或产时发现感染）",
+    "action": "出生后6小时内使用三联药物（齐多夫定+拉米夫定+奈韦拉平或LPV/r）至6周；有条件者可用拉替拉韦替代",
+    "contraindication": null,
+    "evidence": "高暴露风险儿童: 对于妊娠期 ART 没有达到长期病毒学抑制, 治疗不满 12 周或产时发现 HIV 感染的孕产妇所生婴儿, 应使用三联药物齐多夫定 + 拉米夫定 + 奈韦拉平 (或 LPV/r) 至出生后 6 周; 有条件的情况下, 出生至 6 周可以使用齐多夫定 + 拉米夫定 + 拉替拉韦"
+  },
+  {
+    "condition": "HIV感染母亲所生婴儿完成4~6周HIV预防治疗后",
+    "action": "进行肺孢子菌肺炎（PCP）预防，直至排除HIV感染",
+    "contraindication": "已排除HIV感染",
+    "evidence": "为了预防 PCP, 所有 HIV 感染母亲所生的婴儿在完成 4~6 周 HIV 预防治疗后应进行 PCP 预防, 除非已排除 HIV 感染"
+  },
+  {
+    "condition": "HIV阳性孕产妇所生婴儿",
+    "action": "避免母乳喂养，杜绝混合喂养",
+    "contraindication": null,
+    "evidence": "HIV 阳性孕产妇所生婴儿推荐科学喂养, 避免母乳喂养, 杜绝混合喂养"
+  },
+  {
+    "condition": "HIV阳性孕产妇不具备人工喂养条件而选择母乳喂养",
+    "action": "指导纯母乳喂养；哺乳期间坚持ART；喂养时间不超过6个月",
+    "contraindication": "混合喂养",
+    "evidence": "对因不具备人工喂养条件而选择母乳喂养的感染产妇及其家人, 要做好充分的咨询和知情, 指导其坚持正确的纯母乳喂养, 且在整个哺乳期间必须坚持 ART, 喂养时间不超过 6 个月"
+  },
+  {
+    "condition": "HIV暴露后（职业/非职业暴露）",
+    "action": "暴露后72小时内（最好24小时内）启动预防性用药，连续服用28天；首选方案：FTC/TDF（或FTC/TAF）+INSTI（BIC/多替拉韦/拉替拉韦）",
+    "contraindication": "暴露超过72小时",
+    "evidence": "在发生 HIV 暴露后尽可能在最短的时间内 (尽可能在 2 h 内) 进行预防性用药, 最好在 24 h 内, 但不超过 72 h, 连续服用 28 d; 暴露后阻断方案首选 FTC/TDF (或 FTC/TAF) 联合 INSTI (BIC 或多替拉韦或拉替拉韦) 的方案"
+  },
+  {
+    "condition": "HIV高风险人群（MSM、静脉吸毒者等）选择每日PrEP方案",
+    "action": "每24小时口服1片FTC/TDF（或FTC/TAF）；停止PrEP后需在末次风险暴露后继续服药7天",
+    "contraindication": null,
+    "evidence": "每日服药: 每日服用 FTC/TDF(或 FTC/TAF) 是对所有高风险人群推荐的口服 PrEP 方案. 推荐每 24 h 口服 1 片 FTC/TDF(或 FTC/TAF). 如有计划停止或中断 PrEP, 需在最后 1 次风险暴露后持续使用 FTC/TDF(或 FTC/TAF) 7 d"
+  },
+  {
+    "condition": "HIV高风险人群选择事件驱动PrEP（2-1-1方案）",
+    "action": "性行为前2-24小时口服2片FTC/TDF（或FTC/TAF），之后24小时和48小时各服1片；再次性行为需延续每日1片至末次性行为后48小时",
+    "contraindication": null,
+    "evidence": "按需服药 (2-1-1 方案): 指在预期性行为发生前 2 ～ 24 h 口服 2 片 FTC/TDF(或 FTC/TAF), 在性行为后距上次服药 24 h 和 48 h 分别再服药 1 片, 如果按需服药方式结束前再次发生高危性行为, 则延续每天服用 1 片, 直至最后 1 次性行为后 48 h"
+  },
+  {
+    "condition": "HIV感染者（尤其CD4+T淋巴细胞计数<200/μL或WHO临床Ⅲ/Ⅳ期）",
+    "action": "常规筛查结核病和隐球菌病（血清CrAg阳性者需脑脊液检查排除脑膜炎）",
+    "contraindication": null,
+    "evidence": "对于晚发现的患者, 尤其是处于 HIV 感染疾病晚期 (advanced human immunodeficiency virus disease, 定义为确诊时 CD4+ T 淋巴细胞计数 < 200/μL 或处于 WHO 临床 Ⅲ/Ⅳ 期的出现 AIDS 定义性疾病的阶段) 的患者要特别注意筛查各种机会性感染的可能性, 推荐将结核病和隐球菌病的筛查作为临床诊疗常规; 推荐对 CD4+ T 淋巴细胞计数 <200/μL 的 HIV 感染者开展血清隐球菌抗原 (cryptococcal antigen, CrAg) 筛查, 阳性者应进行脑脊液检查以排除隐球菌性脑膜炎的可能"
+  },
+  {
+    "condition": "启动ART前的HIV感染者",
+    "action": "基线检测：HIV RNA、CD4+T淋巴细胞计数、HIV耐药、血常规、尿常规、肝肾功能、血糖、血脂、合并感染（病毒性肝炎/隐球菌病/结核病/STI）筛查",
+    "contraindication": null,
+    "evidence": "启动ＡＲＴ之前, 建议进行相应的基线检测和评估, 这些检测包括: ＨＩＶＲＮＡ, ＣＤ４＋Ｔ淋巴细胞计数, ＨＩＶ耐药检测, 血常规, 尿常规, 肝肾功能, 血糖, 血脂, 是否存在合并感染 (如病毒性肝炎, 隐球菌病, 结核病, ＳＴＩ等) 的相关检测等"
+  },
+  {
+    "condition": "ART后病毒有效抑制的患者需优化治疗（如简化方案、减轻毒性）",
+    "action": "转换为任何首选初始ART方案；转换后1个月监测病毒载量和不良反应",
+    "contraindication": "存在传播性或获得性HIV耐药史",
+    "evidence": "病毒学抑制且无传播性或获得性ＨＩＶ耐药史的ＨＩＶ感染者, 通常可以转换为任何首选推荐的初始ＡＲＴ方案并维持病毒学抑制. 治疗方案调整后应注意监测病毒抑制情况及药物的不良反应, 建议调整方案后１个月即进行病毒载量检测和不良反应相关检查"
+  },
+  {
+    "condition": "所有HIV感染者",
+    "action": "定期接受心血管疾病（CVD）风险评估和筛查；CVD高风险者调整ART方案（避免含阿巴卡韦/LPV/r方案），控制吸烟/高血糖/高血脂/肥胖/高血压等风险因素",
+    "contraindication": null,
+    "evidence": "所有 HIV 感染者均应定期接受 CVD 风险评估, 筛查和预防干预, 对于 CVD 风险高的患者, 应相应调整 ART 方案, 同时积极控制相关 CVD 风险因素如吸烟, 高血糖, 高血脂, 肥胖和高血压等"
+  },
+  {
+    "condition": "HBsAg和抗-HBs阴性的HIV感染者",
+    "action": "尽早接种乙型肝炎疫苗",
+    "contraindication": null,
+    "evidence": "在 HBsAg, 抗 - HBs 阴性的 HIV 感染人群, 不论抗 - HBc 情况如何, 均需尽早接种乙型肝炎疫苗"
+  }
+]

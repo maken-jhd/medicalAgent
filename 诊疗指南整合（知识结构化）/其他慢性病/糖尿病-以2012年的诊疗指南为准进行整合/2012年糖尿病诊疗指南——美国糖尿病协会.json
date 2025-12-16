@@ -1,0 +1,92 @@
+[
+  {
+    "condition": "满足以下任一标准：A1c ≥ 6.5%；或空腹血糖 (FPG) ≥ 7.0 mmol/L；或75g OGTT 2h血糖 ≥ 11.1 mmol/L；或有典型高血糖症状/危象且随机血糖 ≥ 11.1 mmol/L",
+    "action": "诊断糖尿病",
+    "contraindication": null,
+    "evidence": "A1c ≥ 6.5%；或空腹血糖 (FPG) ≥ 7.0 mmol/L；或 75 g 口服葡萄糖耐量试验 (OGTT) 2 h 血糖 ≥ 11.1 mmol/L；或有典型高血糖症状或高血糖危象的患者，随机血糖 ≥ 11.1 mmol/L。"
+  },
+  {
+    "condition": "超重或肥胖（BMI ≥ 25 kg/m²）且有一个以上其他糖尿病危险因素的无症状成人",
+    "action": "从任何年龄开始筛查糖尿病并评估未来糖尿病风险",
+    "contraindication": null,
+    "evidence": "超重或肥胖 [体重指数 (BMI) ≥ 25 kg/m²] 并有 1 个以上其他糖尿病危险因素的无症状成人，应从任何年龄开始筛查糖尿病并评估未来糖尿病的风险。"
+  },
+  {
+    "condition": "无糖尿病危险因素的无症状成人",
+    "action": "从45岁开始筛查",
+    "contraindication": null,
+    "evidence": "对于无上述危险因素的人群，应从 45 岁开始筛查。"
+  },
+  {
+    "condition": "初次筛查结果正常",
+    "action": "至少每3年复查1次",
+    "contraindication": null,
+    "evidence": "如检查结果正常，应至少每 3 年复查 1 次。"
+  },
+  {
+    "condition": "妊娠期有糖尿病危险因素的个体",
+    "action": "产前首次就诊时用标准诊断方法筛查未诊断的2型糖尿病",
+    "contraindication": null,
+    "evidence": "在有危险因素的个体中，产前首次就诊时用标准的诊断方法筛查未诊断的 2 型糖尿病。"
+  },
+  {
+    "condition": "糖耐量减低（IGT）、空腹血糖受损（IFG）或A1c 5.7%~6.4%",
+    "action": "1. 减轻体重7%；2. 每周≥150分钟中等强度体力活动（如步行）",
+    "contraindication": null,
+    "evidence": "对于糖耐量减低 (IGT)(A)、空腹血糖受损 (IFG)(E) 或 A1c 5.7%~6.4%(E) 的患者，目标为减轻体重的 7%，增加体力活动，每周进行至少 150 min 中等强度 (如步行) 的体力活动。"
+  },
+  {
+    "condition": "采用每日多次胰岛素注射或胰岛素泵治疗",
+    "action": "每日进行3次或以上自我血糖监测（SMBG）",
+    "contraindication": null,
+    "evidence": "采用每日多次胰岛素注射或胰岛素泵治疗的患者，应该每日进行 3 次或以上自我血糖监测 (SMBG)。"
+  },
+  {
+    "condition": "多数非妊娠成人糖尿病患者",
+    "action": "A1c控制目标<7%",
+    "contraindication": "存在严重低血糖病史、预期寿命有限、晚期并发症、较多伴发病、糖尿病病程长或血糖难达标者除外",
+    "evidence": "多数非妊娠成人合理的 A1c 控制目标是 < 7%。"
+  },
+  {
+    "condition": "新诊断2型糖尿病伴明显高血糖症状和/或血糖/A1c明显升高",
+    "action": "起始胰岛素治疗，加或不加其他药物",
+    "contraindication": null,
+    "evidence": "新诊断的 2 型糖尿病患者，如有明显的高血糖症状和 (或) 血糖及 A1c 水平明显升高，一开始即考虑胰岛素治疗，加或不加其他药物。"
+  },
+  {
+    "condition": "收缩压130-139 mmHg或舒张压80-89 mmHg",
+    "action": "1. 起始生活方式治疗；2. 3个月未达标则加用降压药",
+    "contraindication": null,
+    "evidence": "收缩压 130~139 mm Hg 或者舒张压 80~89 mm Hg 的患者可仅接受生活方式治疗，如 3 个月内血压仍不达标，加用降压药物。"
+  },
+  {
+    "condition": "无CVD的糖尿病患者",
+    "action": "LDL-C目标<2.6 mmol/L",
+    "contraindication": null,
+    "evidence": "无CVD的糖尿病患者，应使 LDL-C < 2.6 mmol/L。"
+  },
+  {
+    "condition": "有CVD病史的糖尿病患者",
+    "action": "阿司匹林75-162 mg/d作为二级预防",
+    "contraindication": "阿司匹林过敏者改用氯吡格雷75 mg/d",
+    "evidence": "有 CVD 病史的糖尿病患者用阿司匹林 (75~162 mg/d) 作为二级预防治疗。"
+  },
+  {
+    "condition": "1型糖尿病病程≥5年或所有2型糖尿病患者",
+    "action": "每年评估尿白蛋白排泄率",
+    "contraindication": null,
+    "evidence": "对于病程 5 年以上的 1 型糖尿病及所有 2 型糖尿病患者从确诊开始，应每年评估尿白蛋白排泄率。"
+  },
+  {
+    "condition": "糖尿病足溃疡/高危足患者（尤其有溃疡或截肢史）",
+    "action": "行多学科会诊",
+    "contraindication": null,
+    "evidence": "对于足溃疡及高危足患者，尤其有足溃疡和截肢病史者，应行多学科会诊。"
+  },
+  {
+    "condition": "危重患者且血糖持续>10 mmol/L",
+    "action": "1. 起始胰岛素治疗；2. 血糖目标7.8-10.0 mmol/L",
+    "contraindication": null,
+    "evidence": "危重患者：血糖持续高于 10 mmol/L 的患者，应起始胰岛素治疗。建议将血糖控制在 7.8~10.0 mmol/L。"
+  }
+]
