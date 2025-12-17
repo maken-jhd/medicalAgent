@@ -1,0 +1,56 @@
+[JSON Extraction Failed] ID: 其他慢性病/高血压-以2018年的指南为基准进行整合/中国高血压防治指南(2018年修订版).json|122
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景B",
+    "patient_demographics": "11岁男孩，小学五年级学生",
+    "input": "患儿母亲陪同复诊，1周前校医体检首次发现血压146/92mmHg（三次测量均值）。现病史显示近半年体重增长8kg，BMI 23.5kg/m²。母亲无奈提及'孩子放学就抱着平板电脑，体育课总找理由请假'，且特别强调'就爱吃...
+--------------------------------------------------
+[JSON Extraction Failed] ID: 其他慢性病/高血压-以2018年的指南为基准进行整合/老年高血压特点及临床诊治流程专家共识(2024).json|13
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景B",
+    "patient_demographics": "72岁男性，退休会计",
+    "input": "患者因‘反复诊室血压升高半年’至慢性病管理门诊复诊。今日诊室血压三次测量均值152/94mmHg（护士规范测量后记录），但患者出示近两周家庭自测记录显示晨起血压波动在128-132/76-82mmHg。现病史中，患者自述‘炒菜...
+--------------------------------------------------
+[JSON Extraction Failed] ID: 其他慢性病/高血压-以2018年的指南为基准进行整合/中国高血压防治指南(2018年修订版).json|112
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景D",
+    "patient_demographics": "76岁女性，心内科门诊初诊",
+    "input": "患者因'反复头晕伴下肢浮肿2月余'就诊。查体：BP 168/92 mmHg，双下肢胫前凹陷性水肿(+)。既往史：2型糖尿病15年（胰岛素治疗），慢性肾功能不全CKD 3期（基线肌酐145 μmol/L）。实验室报告显示：...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV 合并机会性感染/组织胞浆菌病-同一疾病，需整合/组织胞浆菌病-解读美国传染病学会2007...版组织胞浆菌病临床治疗指南_牟丽娉.json|6
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景E",
+    "patient_demographics": "38岁男性，园林维护工人",
+    "input": "患者因持续干咳伴活动后胸闷气促2月余就诊。查体见颈静脉轻度怒张，听诊双肺呼吸音减弱。胸部CT显示前纵隔多发融合性淋巴结肿大（最大直径3.1cm），伴钙化灶及中心坏死，纵隔镜活检提示肉芽肿性炎伴干酪样坏死，组织病理见巨噬细胞...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV 合并机会性感染/结核-同一疾病，需整合/HIV合并结核分枝杆菌感染诊治专家共识.json|71
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景D",  // 规则涉及药物相互作用（利福布汀与PIs/NNRTIs），属于复杂合并症治疗场景，需要构建多病共存病例。
+    "patient_demographics": "38岁男性，HIV阳性合并肺结核",
+    "input": "38岁男性患者，因HIV阳性合并肺结核在感染科门诊复诊。患者既往史：HIV感染5年，CD4基线150 ...
+--------------------------------------------------
+[JSON Extraction Failed] ID: 结核-按结核发生的部位进行分类整合（如肺结核，结核性脑膜炎或中枢神经系统结核，结核性腹膜炎等）/抗结核药物性肝损伤诊治指南（2019年版）.json|0
+Message: No valid JSON found in content
+Raw Data: 
+{
+    "scenario_type": "场景E",
+    "patient_demographics": "37岁男性，快递员，因咳嗽伴低热就诊",
+    "input": "患者张XX，37岁男性快递员，主诉持续性干咳3周伴午后低热（37.8-38.2℃）和夜间盗汗。胸部CT显示右上肺浸润影伴空洞形成，晨痰抗酸染色阳性（+++），确诊肺结核。今日门诊拟启动标准HRZE抗结核方案。患...
+--------------------------------------------------
+[JSON Extraction Failed] ID: 结核-按结核发生的部位进行分类整合（如肺结核，结核性脑膜炎或中枢神经系统结核，结核性腹膜炎等）/肺结核基层诊疗指南（2018年）.json|12
+Message: No valid JSON found in content
+Raw Data: 
+### 智能路由分析结果
+根据提供的 **Trigger (Condition)** 和 **Guide (Action)** 内容，我进行了规则类型分析：
+- **Trigger**: 肺结核所致咯血（少量或大咯血）——这涉及肺结核患者出现急性症状（咯血），需要干预。
+- **Action**: 包括止血药物使用、气道管理、药物注射（如垂体后叶素或酚妥拉明），以及针对药物难以控制的大咯血进行紧...
+--------------------------------------------------
