@@ -4,16 +4,16 @@ import re
 
 # ================= 配置区域 =================
 # 本地已下载的批量结果文件
-BATCH_RESULT_FILE = "batch_output.jsonl"
+BATCH_RESULT_FILE = "batch_output_kimi.jsonl"
 
 # 原始数据目录（用于获取 Reference Rule）
 INPUT_DIR = "../诊疗指南整合（知识结构化）"
 
 # 最终成品存放目录
-OUTPUT_DIR = "../诊疗指南整合step2（创建病例）"
+OUTPUT_DIR = "../诊疗指南整合step2_kimi（创建病例）"
 
 # 错误日志文件
-ERROR_LOG_FILE = "error_records.txt"
+ERROR_LOG_FILE = "error_records_kimi.txt"
 # ===========================================
 
 def clean_llm_json(text):

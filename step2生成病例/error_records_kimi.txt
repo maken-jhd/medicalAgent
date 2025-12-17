@@ -1,0 +1,42 @@
+[JSON Extraction Failed] ID: HIV/骨质疏松-人类免疫缺陷病毒相关骨质疏松的诊断与治疗的研究进展.json|3
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景E",
+    "patient_demographics": "52岁男性，HIV门诊复诊",
+    "input": "52岁男性，确诊HIV感染18年，长期接受替诺福韦/拉米夫定/多替拉韦方案，病毒载量<50拷贝/ml。近半年自觉‘衣服变长’，今日测身高由1.72m降至1.69m；同事提醒他‘背有点驼’。患者无跌倒史，但偶有下背钝痛，自行...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/高血脂-人类免疫缺陷病毒_获得性免疫缺陷综合征患者血脂综合管理中国专家共识.json|3
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景D",
+    "patient_demographics": "42岁男性，HIV感染者，ART治疗第8年，今日专科复诊",
+    "input": "患者8年前确诊HIV，现用比克替拉韦/恩曲他滨/丙酚替诺福韦（B/F/TAF）方案，病毒载量<20 copies/mL，CD4 520/μL。近半年出现双下肢发沉、午后视物模糊。今日空腹抽血：...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV AIDS 本身/中国艾滋病诊疗指南(2024版)(1).json|12
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景C",
+    "patient_demographics": "38岁男性，网约车司机，HIV复诊",
+    "input": "患者38岁，男性，网约车司机，今日按预约回到艾滋病门诊复诊。半年前因原ART方案（TDF+3TC+EFV）出现病毒学失败（HIV RNA 3.8×10⁴ copies/mL），已按指南更换为二线方案（TAF+FTC...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV 合并机会性感染/结核-同一疾病，需整合/HIV合并结核分枝杆菌感染诊治专家共识.json|42
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景D",
+    "patient_demographics": "32岁男性，首次在感染与结核病联合门诊复诊",
+    "input": "患者3周前因‘咳嗽4周、盗汗、体重下降5kg’在外院查HIV抗体阳性，CD4 210/μL，痰GeneXpert MTB/RIF提示‘结核分枝杆菌阳性，rpoB突变检出’，胸部CT示右中叶斑片影伴小空洞，病...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV 合并机会性感染/结核-同一疾病，需整合/HIV合并结核分枝杆菌感染诊治专家共识.json|95
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景D",
+    "patient_demographics": "32岁男性，HIV-1确诊2年，CD4 110/μl，ART方案为TDF/3TC/DTG，此次为结核病专科门诊复诊",
+    "input": "患者2周前因‘全身弥漫性斑丘疹伴瘙痒’停用四联抗结核治疗（HRZE），皮疹已完全消退3天，无黏膜受累、无发热。今日复诊，体重62kg，...
+--------------------------------------------------
+[JSON Extraction Failed] ID: HIV/HIV 合并机会性感染/结核-同一疾病，需整合/结核分支杆菌（俗称结核）-艾滋病合并结核分枝杆菌感染诊治专家共识.json|64
+Message: No valid JSON found in content
+Raw Data: {
+    "scenario_type": "场景D",
+    "patient_demographics": "38岁男性，体重58 kg，建筑工人，第一次到感染科复诊",
+    "input": "患者3周前因‘间断低热、盗汗、干咳’在外院启动TDF/3TC/DTG抗病毒治疗（CD4 92 cells/μL，HIV-RNA 5.3 log10 copies/mL）。启动ART后第18天出...
+--------------------------------------------------
