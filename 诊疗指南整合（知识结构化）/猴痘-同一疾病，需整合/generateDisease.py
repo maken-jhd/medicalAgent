@@ -7,7 +7,7 @@ from tqdm import tqdm
 # ================= 配置区域 =================
 API_KEY = "sk-vsfrmtzhbyadnxhkafnxzicdlisrivlcqhkbveduyfqcocsh" 
 
-MODEL_NAME = "Pro/moonshotai/Kimi-K2-Instruct-0905"
+MODEL_NAME = "Pro/deepseek-ai/DeepSeek-R1"
 
 API_URL = "https://api.siliconflow.cn/v1/chat/completions" 
 

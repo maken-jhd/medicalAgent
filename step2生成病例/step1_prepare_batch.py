@@ -5,7 +5,7 @@ from tqdm import tqdm
 # ================= 配置区域 =================
 INPUT_DIR = "../诊疗指南整合（知识结构化）"       
 BATCH_INPUT_FILE = "batch_input_kimi.jsonl" # 生成的用于上传的大文件
-MODEL_NAME = "moonshotai/Kimi-K2-Instruct-0905"
+MODEL_NAME = "deepseek-ai/DeepSeek-R1"
 # ===========================================
 
 def generate_case_prompt(item, topic):
